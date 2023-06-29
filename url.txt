@@ -1,0 +1,3 @@
+https://www.naukri.com/jobapi/v3/search?noOfResults=5&urlType=search_by_keyword&searchType=adv&keyword=web developer&pageNo=1&k=web developer&seoKey=web-developer-jobs&src=jobsearchDesk&latLong=
+https://www.naukri.com/jobapi/v3/search?noOfResults=5&urlType=search_by_keyword&searchType=adv&keyword=machine learning&pageNo=1&k=machine learning&nignbevent_src=jobsearchDeskGNB&seoKey=machine-learning-jobs&src=jobsearchDesk&latLong=
+https://www.naukri.com/jobapi/v3/search?noOfResults=5&urlType=search_by_keyword&searchType=adv&keyword=python developer&pageNo=1&k=python developer&nignbevent_src=jobsearchDeskGNB&seoKey=python-developer-jobs&src=jobsearchDesk&latLong=

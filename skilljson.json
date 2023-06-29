@@ -1,0 +1,5256 @@
+{
+    "noOfJobs": 7983,
+    "clusters": {
+        "salaryRange": [
+            {
+                "id": "0to3",
+                "count": 1699,
+                "label": "0-3 Lakhs"
+            },
+            {
+                "id": "3to6",
+                "count": 5601,
+                "label": "3-6 Lakhs"
+            },
+            {
+                "id": "6to10",
+                "count": 5542,
+                "label": "6-10 Lakhs"
+            },
+            {
+                "id": "10to15",
+                "count": 2056,
+                "label": "10-15 Lakhs"
+            },
+            {
+                "id": "15to25",
+                "count": 651,
+                "label": "15-25 Lakhs"
+            },
+            {
+                "id": "25to50",
+                "count": 147,
+                "label": "25-50 Lakhs"
+            },
+            {
+                "id": "50to75",
+                "count": 20,
+                "label": "50-75 Lakhs"
+            },
+            {
+                "id": "75to100",
+                "count": 16,
+                "label": "75-100 Lakhs"
+            },
+            {
+                "id": "100to500",
+                "count": 7,
+                "label": "1-5 Cr"
+            },
+            {
+                "id": "501",
+                "count": 2,
+                "label": "5+ Cr"
+            }
+        ],
+        "cities": [
+            {
+                "id": "25.9.31",
+                "count": 1411,
+                "label": "Delhi/NCR"
+            },
+            {
+                "id": "25.17.74",
+                "count": 1362,
+                "label": "Bengaluru/Bangalore"
+            },
+            {
+                "id": "25.1.4",
+                "count": 686,
+                "label": "Hyderabad / Secunderabad"
+            },
+            {
+                "id": "25.20.109",
+                "count": 685,
+                "label": "Pune"
+            },
+            {
+                "id": "25.20.105",
+                "count": 676,
+                "label": "Mumbai"
+            },
+            {
+                "id": "25.29.146",
+                "count": 632,
+                "label": "Chennai"
+            },
+            {
+                "id": "25.9.30",
+                "count": 496,
+                "label": "Delhi"
+            },
+            {
+                "id": "25.12.36",
+                "count": 461,
+                "label": "Ahmedabad"
+            },
+            {
+                "id": "25.31.172",
+                "count": 431,
+                "label": "Noida"
+            },
+            {
+                "id": "25.13.54",
+                "count": 373,
+                "label": "Gurgaon"
+            },
+            {
+                "id": "25.33.183",
+                "count": 268,
+                "label": "Kolkata"
+            },
+            {
+                "id": "25.26.131",
+                "count": 177,
+                "label": "Mohali"
+            },
+            {
+                "id": "25.12.48",
+                "count": 160,
+                "label": "Surat"
+            },
+            {
+                "id": "25.27.136",
+                "count": 153,
+                "label": "Jaipur"
+            },
+            {
+                "id": "25.18.86",
+                "count": 146,
+                "label": "Ernakulam / Kochi/ Cochin"
+            },
+            {
+                "id": "25.26.23",
+                "count": 142,
+                "label": "Chandigarh"
+            },
+            {
+                "id": "25.19.97",
+                "count": 118,
+                "label": "Indore"
+            },
+            {
+                "id": "25.29.147",
+                "count": 103,
+                "label": "Coimbatore"
+            },
+            {
+                "id": "25.12.39",
+                "count": 94,
+                "label": "Vadodara/Baroda"
+            },
+            {
+                "id": "25.20.108",
+                "count": 81,
+                "label": "Nasik"
+            },
+            {
+                "id": "25.18.93",
+                "count": 72,
+                "label": "Trivandrum"
+            },
+            {
+                "id": "25.12.47",
+                "count": 63,
+                "label": "Rajkot"
+            },
+            {
+                "id": "25.20.190",
+                "count": 56,
+                "label": "Navi Mumbai"
+            },
+            {
+                "id": "25.20.107",
+                "count": 52,
+                "label": "Nagpur"
+            }
+        ],
+        "topCompanyId": [
+            {
+                "id": "27117",
+                "count": 121,
+                "label": "Accenture"
+            },
+            {
+                "id": "16987",
+                "count": 9,
+                "label": "IBM India"
+            },
+            {
+                "id": "7053",
+                "count": 6,
+                "label": "Capgemini"
+            },
+            {
+                "id": "2065",
+                "count": 4,
+                "label": "Cybage Software"
+            },
+            {
+                "id": "20963",
+                "count": 3,
+                "label": "3i Infotech Limited"
+            },
+            {
+                "id": "571",
+                "count": 2,
+                "label": "Infogain"
+            },
+            {
+                "id": "5459",
+                "count": 2,
+                "label": "Techbooks Intl"
+            },
+            {
+                "id": "64499",
+                "count": 2,
+                "label": "ION Trading"
+            },
+            {
+                "id": "65758",
+                "count": 2,
+                "label": "Indecomm Technology"
+            },
+            {
+                "id": "100007",
+                "count": 2,
+                "label": "Tech Mahindra"
+            },
+            {
+                "id": "176973",
+                "count": 2,
+                "label": "Globallogic"
+            },
+            {
+                "id": "410527",
+                "count": 2,
+                "label": "Infosys Technologies"
+            },
+            {
+                "id": "2737280",
+                "count": 2,
+                "label": "Tracxn Technologies Pvt Ltd"
+            },
+            {
+                "id": "2891890",
+                "count": 2,
+                "label": "CSS Corp Pvt Ltd"
+            },
+            {
+                "id": "416",
+                "count": 1,
+                "label": "EXL Services.com"
+            },
+            {
+                "id": "613",
+                "count": 1,
+                "label": "Espire Infolabs"
+            },
+            {
+                "id": "1121",
+                "count": 1,
+                "label": "Syscom Corporation"
+            },
+            {
+                "id": "1225",
+                "count": 1,
+                "label": "Ingram Micro"
+            },
+            {
+                "id": "1392",
+                "count": 1,
+                "label": "Steria"
+            },
+            {
+                "id": "2172",
+                "count": 1,
+                "label": "WNS"
+            },
+            {
+                "id": "2779",
+                "count": 1,
+                "label": "Lionbridge Technologies"
+            },
+            {
+                "id": "4147",
+                "count": 1,
+                "label": "Indegene LifeSystems"
+            },
+            {
+                "id": "5488",
+                "count": 1,
+                "label": "Flextronics"
+            },
+            {
+                "id": "6762",
+                "count": 1,
+                "label": "Conduent"
+            },
+            {
+                "id": "8407",
+                "count": 1,
+                "label": "Trigyn Technologies"
+            },
+            {
+                "id": "18532",
+                "count": 1,
+                "label": "SAP Labs"
+            },
+            {
+                "id": "24468",
+                "count": 1,
+                "label": "NIIT Technologies"
+            },
+            {
+                "id": "32580",
+                "count": 1,
+                "label": "KPMG"
+            },
+            {
+                "id": "32596",
+                "count": 1,
+                "label": "Corbus"
+            }
+        ],
+        "wfhType": [
+            {
+                "id": "0",
+                "count": 7640,
+                "label": "Work from office"
+            },
+            {
+                "id": "3",
+                "count": 137,
+                "label": "Hybrid"
+            },
+            {
+                "id": "2",
+                "count": 132,
+                "label": "Permanent Remote / WFH"
+            },
+            {
+                "id": "1",
+                "count": 74,
+                "label": "Temp. WFH due to covid"
+            }
+        ],
+        "employement": [
+            {
+                "id": "1",
+                "count": 7508,
+                "label": "Company Jobs"
+            },
+            {
+                "id": "2",
+                "count": 475,
+                "label": "Consultant Jobs"
+            }
+        ],
+        "featuredCompanies": [
+            {
+                "id": "2195080",
+                "count": 1,
+                "label": "Veritas Technologies",
+                "url": "/job-listings-veritas-python-developer-sr-software-princ-software-engineer-veritas-software-technologies-india-pvt-ltd-pune-5-to-10-years-251122910223"
+            },
+            {
+                "id": "64499",
+                "count": 2,
+                "label": "ION",
+                "url": "/ion-jobs-careers-64499?keyword=web+developer&src=fcc&companyId=64499"
+            },
+            {
+                "id": "144993",
+                "count": 1,
+                "label": "Mphasis",
+                "url": "/job-listings-adobe-business-consultant-mphasis-limited-bangalore-bengaluru-3-to-4-years-060123907376"
+            },
+            {
+                "id": "63124",
+                "count": 1,
+                "label": "Mindtree",
+                "url": "/job-listings-salesforce-architect-with-financial-service-cloud-experience-ltimindtree-noida-kolkata-hyderabad-secunderabad-pune-chennai-bangalore-bengaluru-5-to-10-years-010922010144"
+            },
+            {
+                "id": "16987",
+                "count": 9,
+                "label": "IBM",
+                "url": "/ibm-jobs-careers-16987?keyword=web+developer&src=fcc&companyId=16987"
+            },
+            {
+                "id": "24468",
+                "count": 1,
+                "label": "Coforge",
+                "url": "/job-listings-ui-developer-coforge-noida-delhi-ncr-5-to-10-years-271222006333"
+            },
+            {
+                "id": "7053",
+                "count": 6,
+                "label": "Capgemini",
+                "url": "/capgemini-jobs-careers-649?keyword=web+developer&src=fcc&companyId=7053"
+            },
+            {
+                "id": "100007",
+                "count": 2,
+                "label": "Tech Mahindra",
+                "url": "/tech-mahindra-jobs-careers-1066?keyword=web+developer&src=fcc&companyId=100007"
+            }
+        ],
+        "business_size": [
+            {
+                "id": "211",
+                "count": 827,
+                "label": "Corporate"
+            },
+            {
+                "id": "213",
+                "count": 532,
+                "label": "Foreign MNC"
+            },
+            {
+                "id": "217",
+                "count": 149,
+                "label": "Indian MNC"
+            },
+            {
+                "id": "62",
+                "count": 75,
+                "label": "Startup"
+            },
+            {
+                "id": "215",
+                "count": 5,
+                "label": "Govt/PSU"
+            },
+            {
+                "id": "60",
+                "count": 4,
+                "label": "MNC"
+            }
+        ],
+        "industryType": [
+            {
+                "id": "25",
+                "count": 4821,
+                "label": "IT-Software, Software Services"
+            },
+            {
+                "id": "34",
+                "count": 1061,
+                "label": "Recruitment, Staffing"
+            },
+            {
+                "id": "19",
+                "count": 286,
+                "label": "Media, Entertainment, Internet"
+            },
+            {
+                "id": "32",
+                "count": 276,
+                "label": "Advertising, PR, MR, Event Management"
+            },
+            {
+                "id": "52",
+                "count": 218,
+                "label": "Strategy, Management Consulting Firms"
+            },
+            {
+                "id": "14",
+                "count": 158,
+                "label": "Banking, Financial Services, Broking"
+            },
+            {
+                "id": "26",
+                "count": 146,
+                "label": "Education, Teaching, Training"
+            },
+            {
+                "id": "63",
+                "count": 146,
+                "label": "Internet, Ecommerce"
+            },
+            {
+                "id": "7",
+                "count": 144,
+                "label": "BPO, Call Centre, ITeS"
+            },
+            {
+                "id": "20",
+                "count": 59,
+                "label": "Medical, Healthcare, Hospitals"
+            },
+            {
+                "id": "12",
+                "count": 51,
+                "label": "Construction, Engineering, Cement, Metals"
+            },
+            {
+                "id": "15",
+                "count": 41,
+                "label": "IT-Hardware & Networking"
+            },
+            {
+                "id": "39",
+                "count": 41,
+                "label": "Real Estate, Property"
+            },
+            {
+                "id": "27",
+                "count": 40,
+                "label": "Telcom, ISP"
+            },
+            {
+                "id": "29",
+                "count": 40,
+                "label": "Other"
+            },
+            {
+                "id": "8",
+                "count": 37,
+                "label": "Accounting, Finance"
+            },
+            {
+                "id": "23",
+                "count": 33,
+                "label": "Oil and Gas, Energy, Power, Infrastructure"
+            },
+            {
+                "id": "28",
+                "count": 33,
+                "label": "Semiconductors, Electronics"
+            },
+            {
+                "id": "48",
+                "count": 31,
+                "label": "KPO, Research, Analytics"
+            },
+            {
+                "id": "2",
+                "count": 26,
+                "label": "Travel , Hotels , Restaurants , Airlines , Railways"
+            },
+            {
+                "id": "18",
+                "count": 26,
+                "label": "Courier, Transportation, Freight , Warehousing"
+            },
+            {
+                "id": "22",
+                "count": 24,
+                "label": "Pharma, Biotech, Clinical Research"
+            },
+            {
+                "id": "37",
+                "count": 24,
+                "label": "NGO, Social Services, Regulators, Industry Associations"
+            },
+            {
+                "id": "16",
+                "count": 22,
+                "label": "Industrial Products, Heavy Machinery"
+            },
+            {
+                "id": "30",
+                "count": 22,
+                "label": "Architecture, Interior Design"
+            }
+        ],
+        "functionalArea": [
+            {
+                "id": "24.01",
+                "count": 5181,
+                "label": "IT Software - Application Programming, Maintenance"
+            },
+            {
+                "id": "41",
+                "count": 1831,
+                "label": "Other"
+            },
+            {
+                "id": "3",
+                "count": 497,
+                "label": "Design, Creative, User Experience"
+            },
+            {
+                "id": "24.12",
+                "count": 111,
+                "label": "IT Software - eCommerce, Internet Technologies"
+            },
+            {
+                "id": "37",
+                "count": 82,
+                "label": "IT Hardware, Technical Support, Telecom Engineering"
+            },
+            {
+                "id": "15",
+                "count": 57,
+                "label": "Marketing, Advertising, MR, PR, Media Planning"
+            },
+            {
+                "id": "24.08",
+                "count": 39,
+                "label": "IT Software - QA & Testing"
+            },
+            {
+                "id": "22",
+                "count": 27,
+                "label": "Sales, Retail, Business Development"
+            },
+            {
+                "id": "24.06",
+                "count": 21,
+                "label": "IT Software - Network Administration, Security"
+            },
+            {
+                "id": "5",
+                "count": 19,
+                "label": "Journalism, Editing, Content"
+            },
+            {
+                "id": "24.03",
+                "count": 19,
+                "label": "IT Software - DBA, Datawarehousing"
+            },
+            {
+                "id": "36",
+                "count": 18,
+                "label": "Teaching, Education, Training, Counselling"
+            },
+            {
+                "id": "8",
+                "count": 15,
+                "label": "ITES, BPO, KPO, LPO, Customer Service, Operations"
+            },
+            {
+                "id": "12",
+                "count": 14,
+                "label": "HR, Recruitment, Administration, IR"
+            },
+            {
+                "id": "1",
+                "count": 9,
+                "label": "Accounts, Finance, Tax, Company Secretary, Audit"
+            },
+            {
+                "id": "81",
+                "count": 9,
+                "label": "Analytics & Business Intelligence"
+            },
+            {
+                "id": "24.04",
+                "count": 5,
+                "label": "IT Software - ERP, CRM"
+            },
+            {
+                "id": "43",
+                "count": 5,
+                "label": "TV, Films, Production, Broadcasting"
+            },
+            {
+                "id": "21",
+                "count": 4,
+                "label": "Engineering Design, R&D"
+            },
+            {
+                "id": "16",
+                "count": 3,
+                "label": "Medical, Healthcare, R&D, Pharmaceuticals, Biotechnology"
+            },
+            {
+                "id": "19",
+                "count": 3,
+                "label": "Production, Manufacturing, Maintenance"
+            },
+            {
+                "id": "24.07",
+                "count": 3,
+                "label": "IT Software - Other"
+            },
+            {
+                "id": "24.09",
+                "count": 2,
+                "label": "IT Software - System Programming"
+            },
+            {
+                "id": "24.10",
+                "count": 2,
+                "label": "IT Software - Telecom Software"
+            },
+            {
+                "id": "2",
+                "count": 1,
+                "label": "Architecture, Interior Design"
+            },
+            {
+                "id": "9",
+                "count": 1,
+                "label": "Self Employed, Entrepreneur, Independent Consultant"
+            },
+            {
+                "id": "10",
+                "count": 1,
+                "label": "Export, Import, Merchandising"
+            },
+            {
+                "id": "11",
+                "count": 1,
+                "label": "Executive Assistant, Front Office, Data Entry"
+            },
+            {
+                "id": "24.02",
+                "count": 1,
+                "label": "IT Software - Client/Server Programming"
+            },
+            {
+                "id": "39",
+                "count": 1,
+                "label": "Top Management"
+            },
+            {
+                "id": "44",
+                "count": 1,
+                "label": "Travel, Tours, Ticketing, Airlines"
+            }
+        ],
+        "glbl_RoleCat": [
+            {
+                "id": "1028",
+                "count": 6849,
+                "label": "Software Development"
+            },
+            {
+                "id": "1072",
+                "count": 492,
+                "label": "Other Design"
+            },
+            {
+                "id": "1167",
+                "count": 115,
+                "label": "Other"
+            },
+            {
+                "id": "1044",
+                "count": 74,
+                "label": "IT Support"
+            },
+            {
+                "id": "1071",
+                "count": 64,
+                "label": "UI / UX"
+            },
+            {
+                "id": "1048",
+                "count": 49,
+                "label": "Digital Marketing"
+            },
+            {
+                "id": "1027",
+                "count": 39,
+                "label": "Quality Assurance and Testing"
+            },
+            {
+                "id": "1042",
+                "count": 28,
+                "label": "IT Infrastructure Services"
+            },
+            {
+                "id": "1085",
+                "count": 28,
+                "label": "Content Management (Print / Online / Electronic)"
+            },
+            {
+                "id": "1025",
+                "count": 27,
+                "label": "DBA / Data warehousing"
+            }
+        ],
+        "jobTags": [
+            {
+                "id": "Skill_39976_39978",
+                "count": 273,
+                "label": "Java"
+            },
+            {
+                "id": "Skill_39976_39984",
+                "count": 826,
+                "label": "Php"
+            },
+            {
+                "id": "Skill_39976_39990",
+                "count": 231,
+                "label": "Software Development"
+            },
+            {
+                "id": "Skill_39976_39992",
+                "count": 361,
+                "label": "Testing"
+            },
+            {
+                "id": "Skill_39976_40004",
+                "count": 152,
+                "label": "Cloud"
+            },
+            {
+                "id": "Skill_39976_40030",
+                "count": 132,
+                "label": "Angularjs"
+            },
+            {
+                "id": "Skill_39976_40034",
+                "count": 808,
+                "label": "Html"
+            },
+            {
+                "id": "Skill_39976_40036",
+                "count": 874,
+                "label": "Css"
+            },
+            {
+                "id": "Skill_39976_40040",
+                "count": 1119,
+                "label": "Javascript"
+            },
+            {
+                "id": "Skill_39976_40048",
+                "count": 118,
+                "label": "Aws"
+            }
+        ],
+        "ugCourse": [
+            {
+                "id": "18",
+                "count": 4762,
+                "label": "Any Graduate"
+            },
+            {
+                "id": "11",
+                "count": 3147,
+                "label": "B.Tech/B.E."
+            },
+            {
+                "id": "3",
+                "count": 679,
+                "label": "BCA"
+            },
+            {
+                "id": "10",
+                "count": 569,
+                "label": "B.Sc"
+            },
+            {
+                "id": "14",
+                "count": 208,
+                "label": "Diploma"
+            },
+            {
+                "id": "17",
+                "count": 60,
+                "label": "Graduation Not Required"
+            },
+            {
+                "id": "1",
+                "count": 43,
+                "label": "B.A"
+            },
+            {
+                "id": "5",
+                "count": 22,
+                "label": "B.Com"
+            },
+            {
+                "id": "4",
+                "count": 18,
+                "label": "B.B.A / B.M.S"
+            },
+            {
+                "id": "6",
+                "count": 3,
+                "label": "B.Ed"
+            },
+            {
+                "id": "12",
+                "count": 3,
+                "label": "LLB"
+            },
+            {
+                "id": "16",
+                "count": 3,
+                "label": "Other Graduate"
+            },
+            {
+                "id": "2",
+                "count": 2,
+                "label": "B.Arch"
+            }
+        ],
+        "pgCourse": [
+            {
+                "id": "19",
+                "count": 3409,
+                "label": "Any Postgraduate"
+            },
+            {
+                "id": "20",
+                "count": 2007,
+                "label": "Post Graduation Not Required"
+            },
+            {
+                "id": "12",
+                "count": 1280,
+                "label": "M.Tech"
+            },
+            {
+                "id": "14",
+                "count": 1006,
+                "label": "MCA"
+            },
+            {
+                "id": "11",
+                "count": 239,
+                "label": "MS/M.Sc(Science)"
+            },
+            {
+                "id": "13",
+                "count": 56,
+                "label": "MBA/PGDM"
+            },
+            {
+                "id": "16",
+                "count": 33,
+                "label": "PG Diploma"
+            },
+            {
+                "id": "1",
+                "count": 25,
+                "label": "CA"
+            },
+            {
+                "id": "8",
+                "count": 16,
+                "label": "M.Com"
+            },
+            {
+                "id": "15",
+                "count": 14,
+                "label": "Medical-MS/MD"
+            },
+            {
+                "id": "2",
+                "count": 12,
+                "label": "CS"
+            },
+            {
+                "id": "18",
+                "count": 12,
+                "label": "Other"
+            }
+        ]
+    },
+    "jobDetails": [
+        {
+            "title": "Full Stack Web Developer",
+            "jobId": "220722008076",
+            "currency": "INR",
+            "footerPlaceholderLabel": "12 Days Ago",
+            "footerPlaceholderColor": "grey",
+            "companyName": "Qmax Systems India",
+            "isSaved": false,
+            "tagsAndSkills": "Node.Js,MEAN,CSS,Github,Full Stack,full stack web,HTML,JQuery",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "0-3 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "3,00,000 - 6,00,000 PA."
+                },
+                {
+                    "type": "location",
+                    "label": "Chennai(Poonamallee)"
+                }
+            ],
+            "companyId": 1956482,
+            "jdURL": "/job-listings-full-stack-web-developer-qmax-systems-india-chennai-0-to-3-years-220722008076",
+            "staticUrl": "qmax-systems-india-jobs-careers-1956482",
+            "ambitionBoxData": {
+                "Url": "https://www.ambitionbox.com/reviews/qmax-systems-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+                "ReviewsCount": 8,
+                "AggregateRating": "4.9",
+                "Title": "Qmax Systems Reviews by Employees"
+            },
+            "jobDescription": "Required Skills <br><br>Preferred <br><br> Hands-on experience in any one of the web Framework (LAMP,MEAN,or Python)<br><br> Good Exposure to JavaScript,CSS,Bootstrap,Angular,Mysql,NodeJs,expressJS,Apache",
+            "showMultipleApply": false,
+            "groupId": 1464680,
+            "isTopGroup": 0,
+            "createdDate": 1671954074723
+        },
+        {
+            "title": "WEB DEVELOPER",
+            "logoPath": "https://img.naukimg.com/logo_images/groups/v1/655882.gif",
+            "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/655882.gif",
+            "jobId": "040123502432",
+            "currency": "INR",
+            "footerPlaceholderLabel": "2 Days Ago",
+            "footerPlaceholderColor": "grey",
+            "companyName": "Radical Technologies",
+            "isSaved": false,
+            "tagsAndSkills": "Android,JQuery,Angular,CSS3,SDLC,CSS,WordPress,Web User Interface Design",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "0-4 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "Not disclosed"
+                },
+                {
+                    "type": "location",
+                    "label": "Pune"
+                }
+            ],
+            "companyId": 3975906,
+            "jdURL": "/job-listings-web-developer-radical-technologies-pune-0-to-4-years-040123502432",
+            "staticUrl": "radical-technologies-jobs-careers-943938",
+            "jobDescription": "Bachelor s degree in Computer Science or Engineering<br><br>Result oriented,hardworking,should work collaboratively,and deliver on time<br><br>Experience with waterfall and / or agile SDLC methodologies",
+            "showMultipleApply": false,
+            "groupId": 655882,
+            "isTopGroup": 0,
+            "createdDate": 1672836009000
+        },
+        {
+            "title": "Web Developer",
+            "jobId": "040123006719",
+            "currency": "INR",
+            "footerPlaceholderLabel": "2 Days Ago",
+            "footerPlaceholderColor": "grey",
+            "companyName": "Turbomodus",
+            "isSaved": false,
+            "tagsAndSkills": "HTML,AJAX,JAVA SCRIPT,SQL SERVER,AngularJS,C,Node.Js,Web Designing",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "0-1 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "3,00,000 - 4,00,000 PA."
+                },
+                {
+                    "type": "location",
+                    "label": "Hyderabad(Madhapur)"
+                }
+            ],
+            "companyId": 3823524,
+            "jdURL": "/job-listings-web-developer-turbomodus-private-limited-hyderabad-secunderabad-0-to-1-years-040123006719",
+            "staticUrl": "turbomodus-jobs-careers-3823524",
+            "ambitionBoxData": {
+                "Url": "https://www.ambitionbox.com/reviews/turbomodus-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+                "ReviewsCount": 2,
+                "AggregateRating": "4.6",
+                "Title": "TURBOMODUS Reviews by Employees"
+            },
+            "jobDescription": "CTC: It is based on candidate,for freshers we start with 3LPA - 4LPA<br><br>Willingness to learn",
+            "showMultipleApply": false,
+            "groupId": 4633363,
+            "isTopGroup": 0,
+            "createdDate": 1672816691552
+        },
+        {
+            "title": "Web Developer (Angular/.Net Web API)",
+            "logoPath": "https://img.naukimg.com/logo_images/groups/v1/966646.gif",
+            "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/966646.gif",
+            "jobId": "241122005485",
+            "currency": "INR",
+            "footerPlaceholderLabel": "2 Days Ago",
+            "footerPlaceholderColor": "grey",
+            "companyName": "Saint Gobain",
+            "isSaved": false,
+            "tagsAndSkills": "html5,JSON,Angular,Typescript,angular 8+,web API,DOM,object oriented programming",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "3-7 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "Not disclosed"
+                },
+                {
+                    "type": "location",
+                    "label": "Chennai"
+                }
+            ],
+            "companyId": 2888078,
+            "jdURL": "/job-listings-web-developer-angular-net-web-api-saint-gobain-chennai-3-to-7-years-241122005485",
+            "staticUrl": "saint-gobain-jobs-careers-900188",
+            "ambitionBoxData": {
+                "Url": "https://www.ambitionbox.com/reviews/saint-gobain-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+                "ReviewsCount": 1503,
+                "AggregateRating": "4.1",
+                "Title": "Saint-Gobain Reviews by Employees"
+            },
+            "jobDescription": "Hands-on experience with .NET web API<br><br>Minimum 3+ years experience with Angular framework(angular 8+) and Typescript (Front end)<br><br>HTML5,CSS3,AJAX,DOM,JSON,XML experience <br><br>Experience with HTML,CSS,and writing cross-browser compatible code",
+            "showMultipleApply": false,
+            "groupId": 966646,
+            "isTopGroup": 0,
+            "createdDate": 1672819029369
+        },
+        {
+            "title": "Fresher PHP, MySQL, Laravel Web Developer",
+            "jobId": "291222002554",
+            "currency": "INR",
+            "footerPlaceholderLabel": "8 Days Ago",
+            "footerPlaceholderColor": "grey",
+            "companyName": "Raida Tech",
+            "isSaved": false,
+            "tagsAndSkills": "MySQL,PHP,English Language,CSS,Javascript,HTML,web development,Laravel",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "0-5 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "4,00,000 - 4,50,000 PA."
+                },
+                {
+                    "type": "location",
+                    "label": "Permanent Remote"
+                }
+            ],
+            "companyId": 6691093,
+            "jdURL": "/job-listings-fresher-php-mysql-laravel-web-developer-raida-tech-delhi-ncr-0-to-5-years-291222002554",
+            "staticUrl": "raida-tech-jobs-careers-6691093",
+            "jobDescription": "The mission of the Fresher PHP Web Developer is to design,create and maintain server services and web-based applications with the help of front-end developers<br><br>Be a good communicator and regularly communicate with other RAIDA Tech personnel<br><br>Be truthful and fair with all RAIDA Tech personnel so that we have a good relationship",
+            "showMultipleApply": false,
+            "groupId": 6087341,
+            "isTopGroup": 0,
+            "createdDate": 1672274413458
+        }
+    ],
+    "fatFooter": [
+        {
+            "tab": "Bangalore",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Php Jobs In Bangalore",
+                    "url": "https://www.naukri.com/php-jobs-in-bangalore"
+                },
+                {
+                    "text": "Php Developer Jobs In Bangalore",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-bangalore"
+                },
+                {
+                    "text": "Html Jobs In Bangalore",
+                    "url": "https://www.naukri.com/html-jobs-in-bangalore"
+                },
+                {
+                    "text": "Css Jobs In Bangalore",
+                    "url": "https://www.naukri.com/css-jobs-in-bangalore"
+                },
+                {
+                    "text": "Javascript Jobs In Bangalore",
+                    "url": "https://www.naukri.com/javascript-jobs-in-bangalore"
+                },
+                {
+                    "text": "Ui Designer Jobs In Bangalore",
+                    "url": "https://www.naukri.com/ui-designer-jobs-in-bangalore"
+                },
+                {
+                    "text": "Ui Jobs In Bangalore",
+                    "url": "https://www.naukri.com/ui-jobs-in-bangalore"
+                },
+                {
+                    "text": "Web Design Jobs In Bangalore",
+                    "url": "https://www.naukri.com/web-design-jobs-in-bangalore"
+                },
+                {
+                    "text": "Software Developer Jobs In Bangalore",
+                    "url": "https://www.naukri.com/software-developer-jobs-in-bangalore"
+                },
+                {
+                    "text": "Html Developer Jobs In Bangalore",
+                    "url": "https://www.naukri.com/html-developer-jobs-in-bangalore"
+                }
+            ]
+        },
+        {
+            "tab": "Delhi NCR",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Php Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/php-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Php Developer Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Html Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/html-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Css Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/css-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Javascript Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/javascript-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Ui Designer Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/ui-designer-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Ui Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/ui-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Web Design Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/web-design-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Software Developer Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/software-developer-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Html Developer Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/html-developer-jobs-in-delhi-ncr"
+                }
+            ]
+        },
+        {
+            "tab": "Hyderabad Secunderabad",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Php Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/php-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Php Developer Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Html Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/html-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Css Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/css-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Javascript Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/javascript-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Ui Designer Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/ui-designer-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Ui Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/ui-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Web Design Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/web-design-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Software Developer Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/software-developer-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Html Developer Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/html-developer-jobs-in-hyderabad-secunderabad"
+                }
+            ]
+        },
+        {
+            "tab": "Mumbai",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Php Jobs In Mumbai",
+                    "url": "https://www.naukri.com/php-jobs-in-mumbai"
+                },
+                {
+                    "text": "Php Developer Jobs In Mumbai",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-mumbai"
+                },
+                {
+                    "text": "Html Jobs In Mumbai",
+                    "url": "https://www.naukri.com/html-jobs-in-mumbai"
+                },
+                {
+                    "text": "Css Jobs In Mumbai",
+                    "url": "https://www.naukri.com/css-jobs-in-mumbai"
+                },
+                {
+                    "text": "Javascript Jobs In Mumbai",
+                    "url": "https://www.naukri.com/javascript-jobs-in-mumbai"
+                },
+                {
+                    "text": "Ui Designer Jobs In Mumbai",
+                    "url": "https://www.naukri.com/ui-designer-jobs-in-mumbai"
+                },
+                {
+                    "text": "Ui Jobs In Mumbai",
+                    "url": "https://www.naukri.com/ui-jobs-in-mumbai"
+                },
+                {
+                    "text": "Web Design Jobs In Mumbai",
+                    "url": "https://www.naukri.com/web-design-jobs-in-mumbai"
+                },
+                {
+                    "text": "Software Developer Jobs In Mumbai",
+                    "url": "https://www.naukri.com/software-developer-jobs-in-mumbai"
+                },
+                {
+                    "text": "Html Developer Jobs In Mumbai",
+                    "url": "https://www.naukri.com/html-developer-jobs-in-mumbai"
+                }
+            ]
+        },
+        {
+            "tab": "Chennai",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Php Jobs In Chennai",
+                    "url": "https://www.naukri.com/php-jobs-in-chennai"
+                },
+                {
+                    "text": "Php Developer Jobs In Chennai",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-chennai"
+                },
+                {
+                    "text": "Html Jobs In Chennai",
+                    "url": "https://www.naukri.com/html-jobs-in-chennai"
+                },
+                {
+                    "text": "Css Jobs In Chennai",
+                    "url": "https://www.naukri.com/css-jobs-in-chennai"
+                },
+                {
+                    "text": "Javascript Jobs In Chennai",
+                    "url": "https://www.naukri.com/javascript-jobs-in-chennai"
+                },
+                {
+                    "text": "Ui Designer Jobs In Chennai",
+                    "url": "https://www.naukri.com/ui-designer-jobs-in-chennai"
+                },
+                {
+                    "text": "Ui Jobs In Chennai",
+                    "url": "https://www.naukri.com/ui-jobs-in-chennai"
+                },
+                {
+                    "text": "Web Design Jobs In Chennai",
+                    "url": "https://www.naukri.com/web-design-jobs-in-chennai"
+                },
+                {
+                    "text": "Software Developer Jobs In Chennai",
+                    "url": "https://www.naukri.com/software-developer-jobs-in-chennai"
+                },
+                {
+                    "text": "Html Developer Jobs In Chennai",
+                    "url": "https://www.naukri.com/html-developer-jobs-in-chennai"
+                }
+            ]
+        },
+        {
+            "tab": "Pune",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Php Jobs In Pune",
+                    "url": "https://www.naukri.com/php-jobs-in-pune"
+                },
+                {
+                    "text": "Php Developer Jobs In Pune",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-pune"
+                },
+                {
+                    "text": "Html Jobs In Pune",
+                    "url": "https://www.naukri.com/html-jobs-in-pune"
+                },
+                {
+                    "text": "Css Jobs In Pune",
+                    "url": "https://www.naukri.com/css-jobs-in-pune"
+                },
+                {
+                    "text": "Javascript Jobs In Pune",
+                    "url": "https://www.naukri.com/javascript-jobs-in-pune"
+                },
+                {
+                    "text": "Ui Designer Jobs In Pune",
+                    "url": "https://www.naukri.com/ui-designer-jobs-in-pune"
+                },
+                {
+                    "text": "Ui Jobs In Pune",
+                    "url": "https://www.naukri.com/ui-jobs-in-pune"
+                },
+                {
+                    "text": "Web Design Jobs In Pune",
+                    "url": "https://www.naukri.com/web-design-jobs-in-pune"
+                },
+                {
+                    "text": "Software Developer Jobs In Pune",
+                    "url": "https://www.naukri.com/software-developer-jobs-in-pune"
+                },
+                {
+                    "text": "Html Developer Jobs In Pune",
+                    "url": "https://www.naukri.com/html-developer-jobs-in-pune"
+                }
+            ]
+        },
+        {
+            "tab": "Kolkata",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Php Jobs In Kolkata",
+                    "url": "https://www.naukri.com/php-jobs-in-kolkata"
+                },
+                {
+                    "text": "Php Developer Jobs In Kolkata",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-kolkata"
+                },
+                {
+                    "text": "Html Jobs In Kolkata",
+                    "url": "https://www.naukri.com/html-jobs-in-kolkata"
+                },
+                {
+                    "text": "Css Jobs In Kolkata",
+                    "url": "https://www.naukri.com/css-jobs-in-kolkata"
+                },
+                {
+                    "text": "Javascript Jobs In Kolkata",
+                    "url": "https://www.naukri.com/javascript-jobs-in-kolkata"
+                },
+                {
+                    "text": "Ui Designer Jobs In Kolkata",
+                    "url": "https://www.naukri.com/ui-designer-jobs-in-kolkata"
+                },
+                {
+                    "text": "Ui Jobs In Kolkata",
+                    "url": "https://www.naukri.com/ui-jobs-in-kolkata"
+                },
+                {
+                    "text": "Web Design Jobs In Kolkata",
+                    "url": "https://www.naukri.com/web-design-jobs-in-kolkata"
+                },
+                {
+                    "text": "Software Developer Jobs In Kolkata",
+                    "url": "https://www.naukri.com/software-developer-jobs-in-kolkata"
+                },
+                {
+                    "text": "Html Developer Jobs In Kolkata",
+                    "url": "https://www.naukri.com/html-developer-jobs-in-kolkata"
+                }
+            ]
+        },
+        {
+            "tab": "Ahmedabad",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Php Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/php-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Php Developer Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Html Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/html-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Css Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/css-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Javascript Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/javascript-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Ui Designer Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/ui-designer-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Ui Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/ui-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Web Design Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/web-design-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Software Developer Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/software-developer-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Html Developer Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/html-developer-jobs-in-ahmedabad"
+                }
+            ]
+        },
+        {
+            "tab": "Gurgaon",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Php Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/php-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Php Developer Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Html Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/html-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Css Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/css-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Javascript Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/javascript-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Ui Designer Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/ui-designer-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Ui Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/ui-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Web Design Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/web-design-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Software Developer Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/software-developer-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Html Developer Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/html-developer-jobs-in-gurgaon"
+                }
+            ]
+        },
+        {
+            "tab": "Noida",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Php Jobs In Noida",
+                    "url": "https://www.naukri.com/php-jobs-in-noida"
+                },
+                {
+                    "text": "Php Developer Jobs In Noida",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-noida"
+                },
+                {
+                    "text": "Html Jobs In Noida",
+                    "url": "https://www.naukri.com/html-jobs-in-noida"
+                },
+                {
+                    "text": "Css Jobs In Noida",
+                    "url": "https://www.naukri.com/css-jobs-in-noida"
+                },
+                {
+                    "text": "Javascript Jobs In Noida",
+                    "url": "https://www.naukri.com/javascript-jobs-in-noida"
+                },
+                {
+                    "text": "Ui Designer Jobs In Noida",
+                    "url": "https://www.naukri.com/ui-designer-jobs-in-noida"
+                },
+                {
+                    "text": "Ui Jobs In Noida",
+                    "url": "https://www.naukri.com/ui-jobs-in-noida"
+                },
+                {
+                    "text": "Web Design Jobs In Noida",
+                    "url": "https://www.naukri.com/web-design-jobs-in-noida"
+                },
+                {
+                    "text": "Software Developer Jobs In Noida",
+                    "url": "https://www.naukri.com/software-developer-jobs-in-noida"
+                },
+                {
+                    "text": "Html Developer Jobs In Noida",
+                    "url": "https://www.naukri.com/html-developer-jobs-in-noida"
+                }
+            ]
+        },
+        {
+            "tab": "All Jobs",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Php Jobs",
+                    "url": "https://www.naukri.com/php-jobs"
+                },
+                {
+                    "text": "Php Developer Jobs",
+                    "url": "https://www.naukri.com/php-developer-jobs"
+                },
+                {
+                    "text": "Html Jobs",
+                    "url": "https://www.naukri.com/html-jobs"
+                },
+                {
+                    "text": "Css Jobs",
+                    "url": "https://www.naukri.com/css-jobs"
+                },
+                {
+                    "text": "Javascript Jobs",
+                    "url": "https://www.naukri.com/javascript-jobs"
+                },
+                {
+                    "text": "Ui Designer Jobs",
+                    "url": "https://www.naukri.com/ui-designer-jobs"
+                },
+                {
+                    "text": "Ui Jobs",
+                    "url": "https://www.naukri.com/ui-jobs"
+                },
+                {
+                    "text": "Web Design Jobs",
+                    "url": "https://www.naukri.com/web-design-jobs"
+                },
+                {
+                    "text": "Software Developer Jobs",
+                    "url": "https://www.naukri.com/software-developer-jobs"
+                },
+                {
+                    "text": "Html Developer Jobs",
+                    "url": "https://www.naukri.com/html-developer-jobs"
+                }
+            ]
+        }
+    ],
+    "suggesterModel": {
+        "qparams": {
+            "pFarea": 18
+        }
+    },
+    "seo": {
+        "title": "Web Developer Jobs - Jobs For Web Developer - Naukri.com",
+        "descp": "Apply To 7983 Web Developer Jobs, 3300 Website Developer Jobs, 704 Php Web Developer Jobs & 1050 Ui Developer Jobs On Naukri.com, India's No.1 Job Site. Explore Web Developer Openings Across Top Companies Now!"
+    },
+    "bellyFilters": {
+        "positions": [
+            7,
+            10,
+            16
+        ],
+        "order": [
+            "salaryRange",
+            "cities",
+            "topCompanyId"
+        ]
+    },
+    "sid": "16730123842537553",
+    "isLoggedIn": false,
+    "variantName": "default",
+    "clusterOrder": [
+        "wfhType",
+        "experience",
+        "functionalArea",
+        "cities",
+        "salaryRange",
+        "business_size",
+        "role",
+        "glbl_RoleCat",
+        "ugCourse",
+        "employement",
+        "industryType",
+        "topCompanyId",
+        "freshness"
+    ]
+}{
+    "noOfJobs": 27058,
+    "clusters": {
+        "salaryRange": [
+            {
+                "id": "0to3",
+                "count": 2647,
+                "label": "0-3 Lakhs"
+            },
+            {
+                "id": "3to6",
+                "count": 10450,
+                "label": "3-6 Lakhs"
+            },
+            {
+                "id": "6to10",
+                "count": 17015,
+                "label": "6-10 Lakhs"
+            },
+            {
+                "id": "10to15",
+                "count": 13385,
+                "label": "10-15 Lakhs"
+            },
+            {
+                "id": "15to25",
+                "count": 6422,
+                "label": "15-25 Lakhs"
+            },
+            {
+                "id": "25to50",
+                "count": 1752,
+                "label": "25-50 Lakhs"
+            },
+            {
+                "id": "50to75",
+                "count": 206,
+                "label": "50-75 Lakhs"
+            },
+            {
+                "id": "75to100",
+                "count": 85,
+                "label": "75-100 Lakhs"
+            },
+            {
+                "id": "100to500",
+                "count": 47,
+                "label": "1-5 Cr"
+            },
+            {
+                "id": "501",
+                "count": 20,
+                "label": "5+ Cr"
+            }
+        ],
+        "cities": [
+            {
+                "id": "25.17.74",
+                "count": 8719,
+                "label": "Bengaluru/Bangalore"
+            },
+            {
+                "id": "25.9.31",
+                "count": 4783,
+                "label": "Delhi/NCR"
+            },
+            {
+                "id": "25.1.4",
+                "count": 3497,
+                "label": "Hyderabad / Secunderabad"
+            },
+            {
+                "id": "25.20.109",
+                "count": 3106,
+                "label": "Pune"
+            },
+            {
+                "id": "25.20.105",
+                "count": 2805,
+                "label": "Mumbai"
+            },
+            {
+                "id": "25.29.146",
+                "count": 2516,
+                "label": "Chennai"
+            },
+            {
+                "id": "25.13.54",
+                "count": 2363,
+                "label": "Gurgaon"
+            },
+            {
+                "id": "25.31.172",
+                "count": 1237,
+                "label": "Noida"
+            },
+            {
+                "id": "25.9.30",
+                "count": 877,
+                "label": "Delhi"
+            },
+            {
+                "id": "25.33.183",
+                "count": 690,
+                "label": "Kolkata"
+            },
+            {
+                "id": "25.12.36",
+                "count": 655,
+                "label": "Ahmedabad"
+            },
+            {
+                "id": "25.29.147",
+                "count": 219,
+                "label": "Coimbatore"
+            },
+            {
+                "id": "25.18.86",
+                "count": 205,
+                "label": "Ernakulam / Kochi/ Cochin"
+            },
+            {
+                "id": "25.27.136",
+                "count": 205,
+                "label": "Jaipur"
+            },
+            {
+                "id": "25.20.190",
+                "count": 195,
+                "label": "Navi Mumbai"
+            },
+            {
+                "id": "25.18.93",
+                "count": 194,
+                "label": "Trivandrum"
+            },
+            {
+                "id": "25.26.131",
+                "count": 177,
+                "label": "Mohali"
+            },
+            {
+                "id": "25.26.23",
+                "count": 161,
+                "label": "Chandigarh"
+            },
+            {
+                "id": "25.19.97",
+                "count": 156,
+                "label": "Indore"
+            },
+            {
+                "id": "25.20.107",
+                "count": 143,
+                "label": "Nagpur"
+            },
+            {
+                "id": "25.12.48",
+                "count": 127,
+                "label": "Surat"
+            },
+            {
+                "id": "25.20.269",
+                "count": 122,
+                "label": "Thane"
+            },
+            {
+                "id": "25.31.169",
+                "count": 117,
+                "label": "Lucknow"
+            },
+            {
+                "id": "25.12.39",
+                "count": 110,
+                "label": "Vadodara/Baroda"
+            }
+        ],
+        "topCompanyId": [
+            {
+                "id": "27117",
+                "count": 3267,
+                "label": "Accenture"
+            },
+            {
+                "id": "16987",
+                "count": 529,
+                "label": "IBM India"
+            },
+            {
+                "id": "126573",
+                "count": 62,
+                "label": "UnitedHealth Group"
+            },
+            {
+                "id": "1981",
+                "count": 57,
+                "label": "Info Edge"
+            },
+            {
+                "id": "3076036",
+                "count": 47,
+                "label": "Shell"
+            },
+            {
+                "id": "176973",
+                "count": 36,
+                "label": "Globallogic"
+            },
+            {
+                "id": "100007",
+                "count": 31,
+                "label": "Tech Mahindra"
+            },
+            {
+                "id": "530713",
+                "count": 27,
+                "label": "Flipkart"
+            },
+            {
+                "id": "717",
+                "count": 26,
+                "label": "RANDSTAD INDIA PVT LTD"
+            },
+            {
+                "id": "7053",
+                "count": 25,
+                "label": "Capgemini"
+            },
+            {
+                "id": "571",
+                "count": 20,
+                "label": "Infogain"
+            },
+            {
+                "id": "2464756",
+                "count": 20,
+                "label": "Citicorp"
+            },
+            {
+                "id": "410527",
+                "count": 19,
+                "label": "Infosys Technologies"
+            },
+            {
+                "id": "144993",
+                "count": 18,
+                "label": "Mphasis"
+            },
+            {
+                "id": "414",
+                "count": 16,
+                "label": "Exide Industries"
+            },
+            {
+                "id": "65758",
+                "count": 16,
+                "label": "Indecomm Technology"
+            },
+            {
+                "id": "4114",
+                "count": 15,
+                "label": "CRISIL LIMITED"
+            },
+            {
+                "id": "27614",
+                "count": 14,
+                "label": "Dell International"
+            },
+            {
+                "id": "2065",
+                "count": 11,
+                "label": "Cybage Software"
+            },
+            {
+                "id": "16564",
+                "count": 10,
+                "label": "Hexaware Technologies"
+            },
+            {
+                "id": "30975",
+                "count": 10,
+                "label": "Genpact"
+            },
+            {
+                "id": "141518",
+                "count": 10,
+                "label": "Aakash Educational services Ltd"
+            },
+            {
+                "id": "3062712",
+                "count": 10,
+                "label": "Religare Health Insurance Company Limited"
+            },
+            {
+                "id": "728545",
+                "count": 9,
+                "label": "Trigent Software"
+            },
+            {
+                "id": "892542",
+                "count": 9,
+                "label": "TCS"
+            },
+            {
+                "id": "14174",
+                "count": 8,
+                "label": "PeopleStrong"
+            },
+            {
+                "id": "152",
+                "count": 7,
+                "label": "Birlasoft"
+            },
+            {
+                "id": "1384",
+                "count": 7,
+                "label": "Wipro"
+            },
+            {
+                "id": "6762",
+                "count": 7,
+                "label": "Conduent"
+            }
+        ],
+        "wfhType": [
+            {
+                "id": "0",
+                "count": 25506,
+                "label": "Work from office"
+            },
+            {
+                "id": "3",
+                "count": 845,
+                "label": "Hybrid"
+            },
+            {
+                "id": "2",
+                "count": 429,
+                "label": "Permanent Remote / WFH"
+            },
+            {
+                "id": "1",
+                "count": 278,
+                "label": "Temp. WFH due to covid"
+            }
+        ],
+        "employement": [
+            {
+                "id": "1",
+                "count": 23827,
+                "label": "Company Jobs"
+            },
+            {
+                "id": "2",
+                "count": 3231,
+                "label": "Consultant Jobs"
+            }
+        ],
+        "featuredCompanies": [
+            {
+                "id": "834",
+                "count": 1,
+                "label": "Newgen ",
+                "url": "/job-listings-project-manager-newgen-noida-10-to-15-years-291222004622"
+            },
+            {
+                "id": "12386",
+                "count": 1,
+                "label": "Deloitte",
+                "url": "/job-listings-hiring-manager-finance-transformation-deloitte-hyderabad-secunderabad-10-to-15-years-030123004590"
+            },
+            {
+                "id": "15001",
+                "count": 1,
+                "url": "/job-listings-data-scientist-immediate-joiners-chennai-location-gavs-technologies-chennai-2-to-3-years-271222003745"
+            },
+            {
+                "id": "22108",
+                "count": 1,
+                "label": "Apeejay Education Society",
+                "url": "/job-listings-research-scientist-api-martin-harris-laboratories-ltd-gurgaon-gurugram-4-to-8-years-200922006393"
+            },
+            {
+                "id": "314023",
+                "count": 2,
+                "label": "IQVIA",
+                "url": "/iqvia-jobs-careers-314023?keyword=machine+learning&src=fcc&companyId=314023"
+            },
+            {
+                "id": "144993",
+                "count": 18,
+                "url": "/mphasis-jobs-careers-6481?keyword=machine+learning&src=fcc&companyId=144993"
+            },
+            {
+                "id": "63124",
+                "count": 7,
+                "label": "Mindtree",
+                "url": "/mindtree-jobs-careers-30528?keyword=machine+learning&src=fcc&companyId=63124"
+            },
+            {
+                "id": "2195080",
+                "count": 2,
+                "label": "Veritas Technologies",
+                "url": "/veritas-technologies-jobs-careers-23220?keyword=machine+learning&src=fcc&companyId=2195080"
+            },
+            {
+                "id": "24468",
+                "count": 3,
+                "label": "Coforge",
+                "url": "/coforge-jobs-careers-24468?keyword=machine+learning&src=fcc&companyId=24468"
+            },
+            {
+                "id": "100007",
+                "count": 31,
+                "label": "Tech Mahindra",
+                "url": "/tech-mahindra-jobs-careers-1066?keyword=machine+learning&src=fcc&companyId=100007"
+            },
+            {
+                "id": "5111614",
+                "count": 7,
+                "label": "Onpassive Technologies",
+                "url": "/onpassive-technologies-jobs-careers-5111614?keyword=machine+learning&src=fcc&companyId=5111614"
+            },
+            {
+                "id": "3122282",
+                "count": 1,
+                "label": "AffinityX",
+                "url": "/job-listings-digital-account-manager-global-advertisement-services-private-limited-pune-5-to-10-years-291122606915"
+            },
+            {
+                "id": "16987",
+                "count": 529,
+                "label": "IBM",
+                "url": "/ibm-jobs-careers-16987?keyword=machine+learning&src=fcc&companyId=16987"
+            },
+            {
+                "id": "4764518",
+                "count": 16,
+                "label": "ICE",
+                "url": "/ice-jobs-careers-4764518?keyword=machine+learning&src=fcc&companyId=4764518"
+            },
+            {
+                "id": "7053",
+                "count": 25,
+                "label": "Capgemini",
+                "url": "/capgemini-jobs-careers-649?keyword=machine+learning&src=fcc&companyId=7053"
+            },
+            {
+                "id": "4799432",
+                "count": 1,
+                "label": "Epiq Systems",
+                "url": "/job-listings-0365-engineer-epiqsystems-india-private-limited-hyderabad-secunderabad-4-to-7-years-141122006412"
+            }
+        ],
+        "business_size": [
+            {
+                "id": "213",
+                "count": 7488,
+                "label": "Foreign MNC"
+            },
+            {
+                "id": "211",
+                "count": 2701,
+                "label": "Corporate"
+            },
+            {
+                "id": "217",
+                "count": 991,
+                "label": "Indian MNC"
+            },
+            {
+                "id": "62",
+                "count": 622,
+                "label": "Startup"
+            },
+            {
+                "id": "215",
+                "count": 88,
+                "label": "Govt/PSU"
+            },
+            {
+                "id": "60",
+                "count": 10,
+                "label": "MNC"
+            },
+            {
+                "id": "63",
+                "count": 3,
+                "label": "Others"
+            },
+            {
+                "id": "219",
+                "count": 2,
+                "label": "Unicorn"
+            }
+        ],
+        "industryType": [
+            {
+                "id": "25",
+                "count": 13713,
+                "label": "IT-Software, Software Services"
+            },
+            {
+                "id": "34",
+                "count": 2570,
+                "label": "Recruitment, Staffing"
+            },
+            {
+                "id": "14",
+                "count": 1684,
+                "label": "Banking, Financial Services, Broking"
+            },
+            {
+                "id": "52",
+                "count": 901,
+                "label": "Strategy, Management Consulting Firms"
+            },
+            {
+                "id": "26",
+                "count": 746,
+                "label": "Education, Teaching, Training"
+            },
+            {
+                "id": "63",
+                "count": 675,
+                "label": "Internet, Ecommerce"
+            },
+            {
+                "id": "48",
+                "count": 565,
+                "label": "KPO, Research, Analytics"
+            },
+            {
+                "id": "7",
+                "count": 463,
+                "label": "BPO, Call Centre, ITeS"
+            },
+            {
+                "id": "20",
+                "count": 407,
+                "label": "Medical, Healthcare, Hospitals"
+            },
+            {
+                "id": "28",
+                "count": 375,
+                "label": "Semiconductors, Electronics"
+            },
+            {
+                "id": "32",
+                "count": 375,
+                "label": "Advertising, PR, MR, Event Management"
+            },
+            {
+                "id": "22",
+                "count": 342,
+                "label": "Pharma, Biotech, Clinical Research"
+            },
+            {
+                "id": "19",
+                "count": 293,
+                "label": "Media, Entertainment, Internet"
+            },
+            {
+                "id": "12",
+                "count": 292,
+                "label": "Construction, Engineering, Cement, Metals"
+            },
+            {
+                "id": "4",
+                "count": 276,
+                "label": "Automobile, Auto Anciliary, Auto Components"
+            },
+            {
+                "id": "27",
+                "count": 212,
+                "label": "Telcom, ISP"
+            },
+            {
+                "id": "17",
+                "count": 210,
+                "label": "Insurance"
+            },
+            {
+                "id": "15",
+                "count": 198,
+                "label": "IT-Hardware & Networking"
+            },
+            {
+                "id": "23",
+                "count": 197,
+                "label": "Oil and Gas, Energy, Power, Infrastructure"
+            },
+            {
+                "id": "16",
+                "count": 190,
+                "label": "Industrial Products, Heavy Machinery"
+            },
+            {
+                "id": "18",
+                "count": 184,
+                "label": "Courier, Transportation, Freight , Warehousing"
+            },
+            {
+                "id": "8",
+                "count": 180,
+                "label": "Accounting, Finance"
+            },
+            {
+                "id": "24",
+                "count": 179,
+                "label": "Retail, Wholesale"
+            },
+            {
+                "id": "9",
+                "count": 174,
+                "label": "FMCG, Foods, Beverage"
+            },
+            {
+                "id": "29",
+                "count": 173,
+                "label": "Other"
+            }
+        ],
+        "functionalArea": [
+            {
+                "id": "41",
+                "count": 9789,
+                "label": "Other"
+            },
+            {
+                "id": "81",
+                "count": 5617,
+                "label": "Analytics & Business Intelligence"
+            },
+            {
+                "id": "24.01",
+                "count": 5007,
+                "label": "IT Software - Application Programming, Maintenance"
+            },
+            {
+                "id": "8",
+                "count": 995,
+                "label": "ITES, BPO, KPO, LPO, Customer Service, Operations"
+            },
+            {
+                "id": "22",
+                "count": 584,
+                "label": "Sales, Retail, Business Development"
+            },
+            {
+                "id": "24.03",
+                "count": 564,
+                "label": "IT Software - DBA, Datawarehousing"
+            },
+            {
+                "id": "1",
+                "count": 526,
+                "label": "Accounts, Finance, Tax, Company Secretary, Audit"
+            },
+            {
+                "id": "15",
+                "count": 520,
+                "label": "Marketing, Advertising, MR, PR, Media Planning"
+            },
+            {
+                "id": "24.08",
+                "count": 373,
+                "label": "IT Software - QA & Testing"
+            },
+            {
+                "id": "12",
+                "count": 356,
+                "label": "HR, Recruitment, Administration, IR"
+            },
+            {
+                "id": "24.12",
+                "count": 355,
+                "label": "IT Software - eCommerce, Internet Technologies"
+            },
+            {
+                "id": "24.04",
+                "count": 328,
+                "label": "IT Software - ERP, CRM"
+            },
+            {
+                "id": "37",
+                "count": 286,
+                "label": "IT Hardware, Technical Support, Telecom Engineering"
+            },
+            {
+                "id": "21",
+                "count": 224,
+                "label": "Engineering Design, R&D"
+            },
+            {
+                "id": "16",
+                "count": 210,
+                "label": "Medical, Healthcare, R&D, Pharmaceuticals, Biotechnology"
+            },
+            {
+                "id": "6",
+                "count": 195,
+                "label": "Financial Services, Banking, Investments, Insurance"
+            },
+            {
+                "id": "19",
+                "count": 173,
+                "label": "Production, Manufacturing, Maintenance"
+            },
+            {
+                "id": "36",
+                "count": 158,
+                "label": "Teaching, Education, Training, Counselling"
+            },
+            {
+                "id": "24.06",
+                "count": 144,
+                "label": "IT Software - Network Administration, Security"
+            },
+            {
+                "id": "3",
+                "count": 111,
+                "label": "Design, Creative, User Experience"
+            },
+            {
+                "id": "11",
+                "count": 93,
+                "label": "Executive Assistant, Front Office, Data Entry"
+            },
+            {
+                "id": "5",
+                "count": 89,
+                "label": "Journalism, Editing, Content"
+            },
+            {
+                "id": "14",
+                "count": 79,
+                "label": "Supply Chain, Logistics, Purchase, Materials"
+            },
+            {
+                "id": "7",
+                "count": 62,
+                "label": "Strategy, Management Consulting, Corporate Planning"
+            },
+            {
+                "id": "39",
+                "count": 55,
+                "label": "Top Management"
+            },
+            {
+                "id": "9",
+                "count": 34,
+                "label": "Self Employed, Entrepreneur, Independent Consultant"
+            },
+            {
+                "id": "24.07",
+                "count": 24,
+                "label": "IT Software - Other"
+            },
+            {
+                "id": "24.14",
+                "count": 16,
+                "label": "IT Software - Mobile"
+            },
+            {
+                "id": "24.09",
+                "count": 15,
+                "label": "IT Software - System Programming"
+            },
+            {
+                "id": "20",
+                "count": 14,
+                "label": "Site Engineering, Project Management"
+            },
+            {
+                "id": "42",
+                "count": 11,
+                "label": "Fashion Designing, Merchandising"
+            },
+            {
+                "id": "2",
+                "count": 10,
+                "label": "Architecture, Interior Design"
+            },
+            {
+                "id": "13",
+                "count": 6,
+                "label": "Legal, Regulatory, Intellectual Property"
+            },
+            {
+                "id": "4",
+                "count": 5,
+                "label": "Hotels, Restaurants"
+            },
+            {
+                "id": "24.11",
+                "count": 5,
+                "label": "IT Software - Systems, EDP, MIS"
+            },
+            {
+                "id": "43",
+                "count": 5,
+                "label": "TV, Films, Production, Broadcasting"
+            },
+            {
+                "id": "44",
+                "count": 4,
+                "label": "Travel, Tours, Ticketing, Airlines"
+            }
+        ],
+        "glbl_RoleCat": [
+            {
+                "id": "1028",
+                "count": 10994,
+                "label": "Software Development"
+            },
+            {
+                "id": "1018",
+                "count": 4012,
+                "label": "Business Intelligence & Analytics"
+            },
+            {
+                "id": "1019",
+                "count": 1483,
+                "label": "Data Science & Machine Learning"
+            },
+            {
+                "id": "1167",
+                "count": 1238,
+                "label": "Other"
+            },
+            {
+                "id": "1025",
+                "count": 840,
+                "label": "DBA / Data warehousing"
+            },
+            {
+                "id": "1065",
+                "count": 438,
+                "label": "BD / Pre Sales"
+            },
+            {
+                "id": "1082",
+                "count": 414,
+                "label": "IT Consulting"
+            },
+            {
+                "id": "1027",
+                "count": 384,
+                "label": "Quality Assurance and Testing"
+            },
+            {
+                "id": "1016",
+                "count": 369,
+                "label": "Voice / Blended"
+            },
+            {
+                "id": "1042",
+                "count": 366,
+                "label": "IT Infrastructure Services"
+            }
+        ],
+        "jobTags": [
+            {
+                "id": "Skill_39976_39978",
+                "count": 562,
+                "label": "Java"
+            },
+            {
+                "id": "Skill_39976_39982",
+                "count": 915,
+                "label": "Python"
+            },
+            {
+                "id": "Skill_39976_39990",
+                "count": 331,
+                "label": "Software Development"
+            },
+            {
+                "id": "Skill_39976_39992",
+                "count": 606,
+                "label": "Testing"
+            },
+            {
+                "id": "Skill_39976_39998",
+                "count": 276,
+                "label": "Data Science"
+            },
+            {
+                "id": "Skill_39976_40000",
+                "count": 745,
+                "label": "Machine Learning"
+            },
+            {
+                "id": "Skill_39976_40004",
+                "count": 541,
+                "label": "Cloud"
+            },
+            {
+                "id": "Skill_39976_40040",
+                "count": 405,
+                "label": "Javascript"
+            },
+            {
+                "id": "Skill_39976_40042",
+                "count": 279,
+                "label": "Big Data"
+            },
+            {
+                "id": "Skill_39976_40048",
+                "count": 414,
+                "label": "Aws"
+            }
+        ],
+        "ugCourse": [
+            {
+                "id": "18",
+                "count": 18113,
+                "label": "Any Graduate"
+            },
+            {
+                "id": "11",
+                "count": 8194,
+                "label": "B.Tech/B.E."
+            },
+            {
+                "id": "10",
+                "count": 1501,
+                "label": "B.Sc"
+            },
+            {
+                "id": "3",
+                "count": 1232,
+                "label": "BCA"
+            },
+            {
+                "id": "1",
+                "count": 483,
+                "label": "B.A"
+            },
+            {
+                "id": "4",
+                "count": 320,
+                "label": "B.B.A / B.M.S"
+            },
+            {
+                "id": "5",
+                "count": 277,
+                "label": "B.Com"
+            },
+            {
+                "id": "14",
+                "count": 244,
+                "label": "Diploma"
+            },
+            {
+                "id": "17",
+                "count": 143,
+                "label": "Graduation Not Required"
+            },
+            {
+                "id": "9",
+                "count": 56,
+                "label": "B.Pharma"
+            },
+            {
+                "id": "16",
+                "count": 38,
+                "label": "Other Graduate"
+            },
+            {
+                "id": "6",
+                "count": 24,
+                "label": "B.Ed"
+            },
+            {
+                "id": "13",
+                "count": 22,
+                "label": "MBBS"
+            }
+        ],
+        "pgCourse": [
+            {
+                "id": "19",
+                "count": 15861,
+                "label": "Any Postgraduate"
+            },
+            {
+                "id": "20",
+                "count": 3549,
+                "label": "Post Graduation Not Required"
+            },
+            {
+                "id": "12",
+                "count": 1925,
+                "label": "M.Tech"
+            },
+            {
+                "id": "13",
+                "count": 1674,
+                "label": "MBA/PGDM"
+            },
+            {
+                "id": "14",
+                "count": 1485,
+                "label": "MCA"
+            },
+            {
+                "id": "11",
+                "count": 1055,
+                "label": "MS/M.Sc(Science)"
+            },
+            {
+                "id": "1",
+                "count": 416,
+                "label": "CA"
+            },
+            {
+                "id": "6",
+                "count": 248,
+                "label": "M.A"
+            },
+            {
+                "id": "18",
+                "count": 191,
+                "label": "Other"
+            },
+            {
+                "id": "15",
+                "count": 98,
+                "label": "Medical-MS/MD"
+            },
+            {
+                "id": "8",
+                "count": 93,
+                "label": "M.Com"
+            },
+            {
+                "id": "16",
+                "count": 66,
+                "label": "PG Diploma"
+            }
+        ]
+    },
+    "jobDetails": [
+        {
+            "title": "Machine Learning Engineer with Azure experience",
+            "logoPath": "https://img.naukimg.com/logo_images/groups/v1/41608.gif",
+            "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/41608.gif",
+            "jobId": "040123012334",
+            "currency": "INR",
+            "footerPlaceholderLabel": "1 Day Ago",
+            "footerPlaceholderColor": "green",
+            "companyName": "Wipro",
+            "isSaved": false,
+            "tagsAndSkills": "azure databricks,python,MLOps,Docker,Machine learning Engineer,Azure,CI/CD,pyspark",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "5-8 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "Not disclosed"
+                },
+                {
+                    "type": "location",
+                    "label": "Temp. WFH - Chennai, Pune, Bengaluru, Hyderabad, Kolkata"
+                }
+            ],
+            "companyId": 1384,
+            "jdURL": "/job-listings-machine-learning-engineer-with-azure-experience-wipro-kolkata-hyderabad-secunderabad-pune-chennai-bangalore-bengaluru-5-to-8-years-040123012334",
+            "staticUrl": "wipro-jobs-careers-1384",
+            "ambitionBoxData": {
+                "Url": "https://www.ambitionbox.com/reviews/wipro-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+                "ReviewsCount": 28614,
+                "AggregateRating": "3.9",
+                "Title": "Wipro Reviews by Employees"
+            },
+            "jobDescription": "Should have experience in developing and deploying ML / DL solutions focused on batch and real-time data pipelines <br><br>Preferred Skills : CI / CD,MLOps<br><br>Should have experience in Azure <br><br>Experience working with developer tools such as PyCharm / VS Code,Docker,Azure DevOps,etc",
+            "showMultipleApply": false,
+            "groupId": 41608,
+            "isTopGroup": 0,
+            "createdDate": 1672841605682
+        },
+        {
+            "title": "Machine Learning Engineer - Computer vision & Python integration",
+            "logoPath": "https://img.naukimg.com/logo_images/groups/v1/40604.gif",
+            "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/40604.gif",
+            "jobId": "040123501862",
+            "currency": "INR",
+            "footerPlaceholderLabel": "2 Days Ago",
+            "footerPlaceholderColor": "grey",
+            "companyName": "Siemens",
+            "isSaved": false,
+            "tagsAndSkills": "Computer vision,continuous integration,deep learning,process integration,Consulting,Machine learning,Siemens,splunk",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "2-6 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "Not disclosed"
+                },
+                {
+                    "type": "location",
+                    "label": "Bengaluru"
+                }
+            ],
+            "companyId": 1496708,
+            "jdURL": "/job-listings-machine-learning-engineer-computer-vision-python-integration-siemens-limited-bangalore-bengaluru-2-to-6-years-040123501862",
+            "staticUrl": "siemens-jobs-careers-73816",
+            "ambitionBoxData": {
+                "Url": "https://www.ambitionbox.com/reviews/siemens-india-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+                "ReviewsCount": 4790,
+                "AggregateRating": "4.2",
+                "Title": "Siemens Reviews by Employees"
+            },
+            "jobDescription": "Hands onreal-time experience in Deep Learning models for computer vision problems withexpert level knowledge with Deep Learning frameworks TensorFlow,Keras,Fastaiand PyTorch and Computer Vision libraries like OpenCV,OpenVino,SciPy,NumPy,TensorRT,CUDA<br><br>Experience withcontinuous integration(Jenkins,CircleCI),continuous delivery and enterpriseDevOps concepts",
+            "showMultipleApply": false,
+            "groupId": 40604,
+            "isTopGroup": 0,
+            "createdDate": 1672834899000
+        },
+        {
+            "title": "Intern - Artificial Intelligence and Machine Learning",
+            "jobId": "281122601765",
+            "currency": "INR",
+            "footerPlaceholderLabel": "3 Days Ago",
+            "footerPlaceholderColor": "grey",
+            "companyName": "Planys Technologies",
+            "isSaved": false,
+            "tagsAndSkills": "Opencv,Artificial Intelligence,Computer Vision,Machine Learning",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "0-1 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "Not disclosed"
+                },
+                {
+                    "type": "location",
+                    "label": "Chennai"
+                }
+            ],
+            "companyId": 3577786,
+            "jdURL": "/job-listings-intern-artificial-intelligence-and-machine-learning-planys-technologies-private-limited-chennai-0-to-1-years-281122601765",
+            "staticUrl": "planys-technologies-jobs-careers-2441430",
+            "ambitionBoxData": {
+                "Url": "https://www.ambitionbox.com/reviews/planys-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+                "ReviewsCount": 16,
+                "AggregateRating": "4.8",
+                "Title": "Planys Technologies Reviews by Employees"
+            },
+            "jobDescription": "Advance level (Needs Minimal Supervision) -Theoretical &hands-on knowledge,Day to day tasks with Linux,Good communication skills",
+            "showMultipleApply": false,
+            "groupId": 1872946,
+            "isTopGroup": 0,
+            "createdDate": 1672729767712
+        },
+        {
+            "title": "Senior Scientist/NLP/Machine Learning/Data Mining Professional",
+            "jobId": "040123907472",
+            "currency": "INR",
+            "footerPlaceholderLabel": "2 Days Ago",
+            "footerPlaceholderColor": "grey",
+            "companyName": "Career Maker",
+            "isSaved": false,
+            "tagsAndSkills": "Machine Learning,Java,C++,R,NLP,Linux,SAS,Data Management",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "2-7 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "Not disclosed"
+                },
+                {
+                    "type": "location",
+                    "label": "Bengaluru"
+                }
+            ],
+            "companyId": 123596287,
+            "jdURL": "/job-listings-senior-scientist-nlp-machine-learning-data-mining-professional-career-maker-bangalore-bengaluru-2-to-7-years-040123907472",
+            "staticUrl": "arise-overseas-jobs-careers-123596287",
+            "ambitionBoxData": {
+                "Url": "https://www.ambitionbox.com/reviews/career-makers-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+                "ReviewsCount": 5,
+                "AggregateRating": "2.5",
+                "Title": "Career Makers Reviews by Employees"
+            },
+            "jobDescription": "<p>Major responsibilities:<br /><br />- Use statistics, NLP and machine learning techniques to create scalable solutions for business problems<br /><br />- Analyze and extract relevant information from large amounts of both structured and unstructured data to help automate and optimize key processes<br /><br />- Design, experiment and evaluate highly innovative models for predictive learning<br /><br />- Work closely with software engineering teams to drive real-time model experiments, implementations and new feature creations<br /><br />- Work closely with operations staff to optimize various business operations<br /><br />- Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation<br /><br />- Track general business activity and provide clear, compelling management reporting on a regular basis<br /><br />- Research and implement novel machine learning and statistical approaches<br /><br />Basic Qualifications:<br /><br />- A MS in CS, Machine Learning NLP, Statistics, Operational Research or in a highly quantitative field<br /><br />- 3+ years of hands-on experience in predictive modeling and large data analysis<br /><br />- 3+ years of experience using RSAS and SQL in a LinuxUNIX environment<br /><br />- 3+ years of experience with Python<br /><br />- Strong communication and data presentation skills<br /><br />- Strong problem solving ability<br /><br />Preferred Qualifications:<br /><br />- A PhD in CS, Machine Learning NLP, Statistics, Operational Research or in a highly quantitative field<br /><br />- 5+ years of industry experience in predictive modeling and large data analysis<br /><br />- Strong skills with Python and JavaC++<br /><br />- 1+ year distributed programming experience<br /><br />Machine Learning Scientist<br /><br />Major responsibilities:<br /><br />- Use machine learning, data mining and statistical techniques to create new, scalable solutions for business problems<br /><br />- Analyze and extract relevant information from large amounts of Amazon's historical business data to help automate and optimize key processes<br /><br />- Design, develop and evaluate highly innovative models for predictive learning<br /><br />- Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation<br /><br />- Research and implement novel machine learning and statistical approaches<br /><br />Basic Qualifications <br /><br />- An MS PhD in CS, Machine Learning, Operational research, Statistics or in a highly quantitative field. PhD strongly preferred.<br /><br />- Industrial experience in predictive modeling and analysis, predictive software development<br /><br />- Strong Problem solving ability<br /><br />- Good skills with Java or C++, PerlPython (or similar scripting language)<br /><br />- Experience in using R, Matlab, or any other statistical software<br /><br />- Experience in mentoring junior team members, and guiding them on machine learning and data modeling applications<br /><br />- Strong communication and data presentation skills<br /><br />Preferred Qualifications :<br /><br />- 2-10 years of industrial experience in predictive modeling and analysis, predictive software development<br /><br />- Experience handling gigabyte and terabyte size datasets<br /><br />- Experience working with retail or e-commerce data<br /><br />- Experience working with distributed systems and grid computing<br /><br />- Publications or presentation in recognized Machine Learning and Data Mining journalsconferences</p>",
+            "showMultipleApply": false,
+            "groupId": 7197521,
+            "isTopGroup": 0,
+            "createdDate": 1672818860213
+        },
+        {
+            "title": "Research Engineer - Big Data/Machine Learning - Java/C++/Perl/Python",
+            "jobId": "040123905552",
+            "currency": "INR",
+            "footerPlaceholderLabel": "2 Days Ago",
+            "footerPlaceholderColor": "grey",
+            "companyName": "Career Maker",
+            "isSaved": false,
+            "tagsAndSkills": "Big Data,Java,C++,R,Predictive modeling and analysis,Statistical software,Data Mining,Perl",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "3-8 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "Not disclosed"
+                },
+                {
+                    "type": "location",
+                    "label": "Bengaluru"
+                }
+            ],
+            "companyId": 123596287,
+            "jdURL": "/job-listings-research-engineer-big-data-machine-learning-java-c-perl-python-career-maker-bangalore-bengaluru-3-to-8-years-040123905552",
+            "staticUrl": "arise-overseas-jobs-careers-123596287",
+            "ambitionBoxData": {
+                "Url": "https://www.ambitionbox.com/reviews/career-makers-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+                "ReviewsCount": 5,
+                "AggregateRating": "2.5",
+                "Title": "Career Makers Reviews by Employees"
+            },
+            "jobDescription": "Industrial experience Masters level thesis work in predictive modeling and analysis,predictive software development<br><br>We are looking for talented Research Engineers (with a Masters degree in a related area) who can apply innovative Machine Learning techniques to real-world e-Commerce problems<br><br>Preferred Qualifications : - Experience handling gigabyte and terabyte size datasets",
+            "showMultipleApply": false,
+            "groupId": 7197521,
+            "isTopGroup": 0,
+            "createdDate": 1672812674325
+        }
+    ],
+    "fatFooter": [
+        {
+            "tab": "Bangalore",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Artificial Intelligence Jobs In Bangalore",
+                    "url": "https://www.naukri.com/artificial-intelligence-jobs-in-bangalore"
+                },
+                {
+                    "text": "Text Mining Jobs In Bangalore",
+                    "url": "https://www.naukri.com/text-mining-jobs-in-bangalore"
+                },
+                {
+                    "text": "Hadoop Jobs In Bangalore",
+                    "url": "https://www.naukri.com/hadoop-jobs-in-bangalore"
+                },
+                {
+                    "text": "Nlp Jobs In Bangalore",
+                    "url": "https://www.naukri.com/nlp-jobs-in-bangalore"
+                },
+                {
+                    "text": "Pattern Recognition Jobs In Bangalore",
+                    "url": "https://www.naukri.com/pattern-recognition-jobs-in-bangalore"
+                },
+                {
+                    "text": "Algorithms Jobs In Bangalore",
+                    "url": "https://www.naukri.com/algorithms-jobs-in-bangalore"
+                },
+                {
+                    "text": "Cloud Computing Jobs In Bangalore",
+                    "url": "https://www.naukri.com/cloud-computing-jobs-in-bangalore"
+                },
+                {
+                    "text": "Information Retrieval Jobs In Bangalore",
+                    "url": "https://www.naukri.com/information-retrieval-jobs-in-bangalore"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Bangalore",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-bangalore"
+                },
+                {
+                    "text": "Datamining Jobs In Bangalore",
+                    "url": "https://www.naukri.com/datamining-jobs-in-bangalore"
+                }
+            ]
+        },
+        {
+            "tab": "Delhi NCR",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Artificial Intelligence Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/artificial-intelligence-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Text Mining Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/text-mining-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Hadoop Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/hadoop-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Nlp Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/nlp-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Pattern Recognition Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/pattern-recognition-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Algorithms Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/algorithms-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Cloud Computing Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/cloud-computing-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Information Retrieval Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/information-retrieval-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Datamining Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/datamining-jobs-in-delhi-ncr"
+                }
+            ]
+        },
+        {
+            "tab": "Hyderabad Secunderabad",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Artificial Intelligence Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/artificial-intelligence-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Text Mining Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/text-mining-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Hadoop Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/hadoop-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Nlp Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/nlp-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Pattern Recognition Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/pattern-recognition-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Algorithms Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/algorithms-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Cloud Computing Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/cloud-computing-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Information Retrieval Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/information-retrieval-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Datamining Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/datamining-jobs-in-hyderabad-secunderabad"
+                }
+            ]
+        },
+        {
+            "tab": "Mumbai",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Artificial Intelligence Jobs In Mumbai",
+                    "url": "https://www.naukri.com/artificial-intelligence-jobs-in-mumbai"
+                },
+                {
+                    "text": "Text Mining Jobs In Mumbai",
+                    "url": "https://www.naukri.com/text-mining-jobs-in-mumbai"
+                },
+                {
+                    "text": "Hadoop Jobs In Mumbai",
+                    "url": "https://www.naukri.com/hadoop-jobs-in-mumbai"
+                },
+                {
+                    "text": "Nlp Jobs In Mumbai",
+                    "url": "https://www.naukri.com/nlp-jobs-in-mumbai"
+                },
+                {
+                    "text": "Pattern Recognition Jobs In Mumbai",
+                    "url": "https://www.naukri.com/pattern-recognition-jobs-in-mumbai"
+                },
+                {
+                    "text": "Algorithms Jobs In Mumbai",
+                    "url": "https://www.naukri.com/algorithms-jobs-in-mumbai"
+                },
+                {
+                    "text": "Cloud Computing Jobs In Mumbai",
+                    "url": "https://www.naukri.com/cloud-computing-jobs-in-mumbai"
+                },
+                {
+                    "text": "Information Retrieval Jobs In Mumbai",
+                    "url": "https://www.naukri.com/information-retrieval-jobs-in-mumbai"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Mumbai",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-mumbai"
+                },
+                {
+                    "text": "Datamining Jobs In Mumbai",
+                    "url": "https://www.naukri.com/datamining-jobs-in-mumbai"
+                }
+            ]
+        },
+        {
+            "tab": "Chennai",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Artificial Intelligence Jobs In Chennai",
+                    "url": "https://www.naukri.com/artificial-intelligence-jobs-in-chennai"
+                },
+                {
+                    "text": "Text Mining Jobs In Chennai",
+                    "url": "https://www.naukri.com/text-mining-jobs-in-chennai"
+                },
+                {
+                    "text": "Hadoop Jobs In Chennai",
+                    "url": "https://www.naukri.com/hadoop-jobs-in-chennai"
+                },
+                {
+                    "text": "Nlp Jobs In Chennai",
+                    "url": "https://www.naukri.com/nlp-jobs-in-chennai"
+                },
+                {
+                    "text": "Pattern Recognition Jobs In Chennai",
+                    "url": "https://www.naukri.com/pattern-recognition-jobs-in-chennai"
+                },
+                {
+                    "text": "Algorithms Jobs In Chennai",
+                    "url": "https://www.naukri.com/algorithms-jobs-in-chennai"
+                },
+                {
+                    "text": "Cloud Computing Jobs In Chennai",
+                    "url": "https://www.naukri.com/cloud-computing-jobs-in-chennai"
+                },
+                {
+                    "text": "Information Retrieval Jobs In Chennai",
+                    "url": "https://www.naukri.com/information-retrieval-jobs-in-chennai"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Chennai",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-chennai"
+                },
+                {
+                    "text": "Datamining Jobs In Chennai",
+                    "url": "https://www.naukri.com/datamining-jobs-in-chennai"
+                }
+            ]
+        },
+        {
+            "tab": "Pune",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Artificial Intelligence Jobs In Pune",
+                    "url": "https://www.naukri.com/artificial-intelligence-jobs-in-pune"
+                },
+                {
+                    "text": "Text Mining Jobs In Pune",
+                    "url": "https://www.naukri.com/text-mining-jobs-in-pune"
+                },
+                {
+                    "text": "Hadoop Jobs In Pune",
+                    "url": "https://www.naukri.com/hadoop-jobs-in-pune"
+                },
+                {
+                    "text": "Nlp Jobs In Pune",
+                    "url": "https://www.naukri.com/nlp-jobs-in-pune"
+                },
+                {
+                    "text": "Pattern Recognition Jobs In Pune",
+                    "url": "https://www.naukri.com/pattern-recognition-jobs-in-pune"
+                },
+                {
+                    "text": "Algorithms Jobs In Pune",
+                    "url": "https://www.naukri.com/algorithms-jobs-in-pune"
+                },
+                {
+                    "text": "Cloud Computing Jobs In Pune",
+                    "url": "https://www.naukri.com/cloud-computing-jobs-in-pune"
+                },
+                {
+                    "text": "Information Retrieval Jobs In Pune",
+                    "url": "https://www.naukri.com/information-retrieval-jobs-in-pune"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Pune",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-pune"
+                },
+                {
+                    "text": "Datamining Jobs In Pune",
+                    "url": "https://www.naukri.com/datamining-jobs-in-pune"
+                }
+            ]
+        },
+        {
+            "tab": "Kolkata",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Artificial Intelligence Jobs In Kolkata",
+                    "url": "https://www.naukri.com/artificial-intelligence-jobs-in-kolkata"
+                },
+                {
+                    "text": "Text Mining Jobs In Kolkata",
+                    "url": "https://www.naukri.com/text-mining-jobs-in-kolkata"
+                },
+                {
+                    "text": "Hadoop Jobs In Kolkata",
+                    "url": "https://www.naukri.com/hadoop-jobs-in-kolkata"
+                },
+                {
+                    "text": "Nlp Jobs In Kolkata",
+                    "url": "https://www.naukri.com/nlp-jobs-in-kolkata"
+                },
+                {
+                    "text": "Pattern Recognition Jobs In Kolkata",
+                    "url": "https://www.naukri.com/pattern-recognition-jobs-in-kolkata"
+                },
+                {
+                    "text": "Algorithms Jobs In Kolkata",
+                    "url": "https://www.naukri.com/algorithms-jobs-in-kolkata"
+                },
+                {
+                    "text": "Cloud Computing Jobs In Kolkata",
+                    "url": "https://www.naukri.com/cloud-computing-jobs-in-kolkata"
+                },
+                {
+                    "text": "Information Retrieval Jobs In Kolkata",
+                    "url": "https://www.naukri.com/information-retrieval-jobs-in-kolkata"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Kolkata",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-kolkata"
+                },
+                {
+                    "text": "Datamining Jobs In Kolkata",
+                    "url": "https://www.naukri.com/datamining-jobs-in-kolkata"
+                }
+            ]
+        },
+        {
+            "tab": "Ahmedabad",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Artificial Intelligence Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/artificial-intelligence-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Text Mining Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/text-mining-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Hadoop Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/hadoop-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Nlp Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/nlp-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Pattern Recognition Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/pattern-recognition-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Algorithms Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/algorithms-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Cloud Computing Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/cloud-computing-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Information Retrieval Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/information-retrieval-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Datamining Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/datamining-jobs-in-ahmedabad"
+                }
+            ]
+        },
+        {
+            "tab": "Gurgaon",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Artificial Intelligence Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/artificial-intelligence-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Text Mining Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/text-mining-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Hadoop Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/hadoop-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Nlp Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/nlp-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Pattern Recognition Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/pattern-recognition-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Algorithms Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/algorithms-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Cloud Computing Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/cloud-computing-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Information Retrieval Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/information-retrieval-jobs-in-gurgaon"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Datamining Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/datamining-jobs-in-gurgaon"
+                }
+            ]
+        },
+        {
+            "tab": "Noida",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Artificial Intelligence Jobs In Noida",
+                    "url": "https://www.naukri.com/artificial-intelligence-jobs-in-noida"
+                },
+                {
+                    "text": "Text Mining Jobs In Noida",
+                    "url": "https://www.naukri.com/text-mining-jobs-in-noida"
+                },
+                {
+                    "text": "Hadoop Jobs In Noida",
+                    "url": "https://www.naukri.com/hadoop-jobs-in-noida"
+                },
+                {
+                    "text": "Nlp Jobs In Noida",
+                    "url": "https://www.naukri.com/nlp-jobs-in-noida"
+                },
+                {
+                    "text": "Pattern Recognition Jobs In Noida",
+                    "url": "https://www.naukri.com/pattern-recognition-jobs-in-noida"
+                },
+                {
+                    "text": "Algorithms Jobs In Noida",
+                    "url": "https://www.naukri.com/algorithms-jobs-in-noida"
+                },
+                {
+                    "text": "Cloud Computing Jobs In Noida",
+                    "url": "https://www.naukri.com/cloud-computing-jobs-in-noida"
+                },
+                {
+                    "text": "Information Retrieval Jobs In Noida",
+                    "url": "https://www.naukri.com/information-retrieval-jobs-in-noida"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Noida",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-noida"
+                },
+                {
+                    "text": "Datamining Jobs In Noida",
+                    "url": "https://www.naukri.com/datamining-jobs-in-noida"
+                }
+            ]
+        },
+        {
+            "tab": "All Jobs",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Artificial Intelligence Jobs",
+                    "url": "https://www.naukri.com/artificial-intelligence-jobs"
+                },
+                {
+                    "text": "Text Mining Jobs",
+                    "url": "https://www.naukri.com/text-mining-jobs"
+                },
+                {
+                    "text": "Hadoop Jobs",
+                    "url": "https://www.naukri.com/hadoop-jobs"
+                },
+                {
+                    "text": "Nlp Jobs",
+                    "url": "https://www.naukri.com/nlp-jobs"
+                },
+                {
+                    "text": "Pattern Recognition Jobs",
+                    "url": "https://www.naukri.com/pattern-recognition-jobs"
+                },
+                {
+                    "text": "Algorithms Jobs",
+                    "url": "https://www.naukri.com/algorithms-jobs"
+                },
+                {
+                    "text": "Cloud Computing Jobs",
+                    "url": "https://www.naukri.com/cloud-computing-jobs"
+                },
+                {
+                    "text": "Information Retrieval Jobs",
+                    "url": "https://www.naukri.com/information-retrieval-jobs"
+                },
+                {
+                    "text": "C Plus Plus Jobs",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs"
+                },
+                {
+                    "text": "Datamining Jobs",
+                    "url": "https://www.naukri.com/datamining-jobs"
+                }
+            ]
+        }
+    ],
+    "suggesterModel": {
+        "qparams": {
+            "pFarea": 18
+        }
+    },
+    "seo": {
+        "title": "Machine Learning Jobs, 27058 Machine Learning Job Vacancies In January 2023 - Naukri.com",
+        "descp": "Apply To 27058 Machine Learning Jobs On Naukri.com, #1 Job Portal In India. Explore Machine Learning Job Openings In Your Desired Locations Now!"
+    },
+    "bellyFilters": {
+        "positions": [
+            7,
+            10,
+            16
+        ],
+        "order": [
+            "salaryRange",
+            "cities",
+            "topCompanyId"
+        ]
+    },
+    "sid": "1673012385337825",
+    "isLoggedIn": false,
+    "variantName": "default",
+    "clusterOrder": [
+        "wfhType",
+        "experience",
+        "functionalArea",
+        "cities",
+        "salaryRange",
+        "business_size",
+        "role",
+        "glbl_RoleCat",
+        "ugCourse",
+        "employement",
+        "industryType",
+        "topCompanyId",
+        "freshness"
+    ]
+}{
+    "noOfJobs": 47862,
+    "clusters": {
+        "salaryRange": [
+            {
+                "id": "0to3",
+                "count": 4294,
+                "label": "0-3 Lakhs"
+            },
+            {
+                "id": "3to6",
+                "count": 19951,
+                "label": "3-6 Lakhs"
+            },
+            {
+                "id": "6to10",
+                "count": 31938,
+                "label": "6-10 Lakhs"
+            },
+            {
+                "id": "10to15",
+                "count": 22981,
+                "label": "10-15 Lakhs"
+            },
+            {
+                "id": "15to25",
+                "count": 11373,
+                "label": "15-25 Lakhs"
+            },
+            {
+                "id": "25to50",
+                "count": 3073,
+                "label": "25-50 Lakhs"
+            },
+            {
+                "id": "50to75",
+                "count": 201,
+                "label": "50-75 Lakhs"
+            },
+            {
+                "id": "75to100",
+                "count": 96,
+                "label": "75-100 Lakhs"
+            },
+            {
+                "id": "100to500",
+                "count": 55,
+                "label": "1-5 Cr"
+            },
+            {
+                "id": "501",
+                "count": 48,
+                "label": "5+ Cr"
+            }
+        ],
+        "cities": [
+            {
+                "id": "25.17.74",
+                "count": 15920,
+                "label": "Bengaluru/Bangalore"
+            },
+            {
+                "id": "25.9.31",
+                "count": 7431,
+                "label": "Delhi/NCR"
+            },
+            {
+                "id": "25.1.4",
+                "count": 7017,
+                "label": "Hyderabad / Secunderabad"
+            },
+            {
+                "id": "25.20.109",
+                "count": 6735,
+                "label": "Pune"
+            },
+            {
+                "id": "25.29.146",
+                "count": 5406,
+                "label": "Chennai"
+            },
+            {
+                "id": "25.20.105",
+                "count": 3850,
+                "label": "Mumbai"
+            },
+            {
+                "id": "25.13.54",
+                "count": 2959,
+                "label": "Gurgaon"
+            },
+            {
+                "id": "25.31.172",
+                "count": 2528,
+                "label": "Noida"
+            },
+            {
+                "id": "25.12.36",
+                "count": 2093,
+                "label": "Ahmedabad"
+            },
+            {
+                "id": "25.33.183",
+                "count": 1299,
+                "label": "Kolkata"
+            },
+            {
+                "id": "25.9.30",
+                "count": 1283,
+                "label": "Delhi"
+            },
+            {
+                "id": "25.29.147",
+                "count": 575,
+                "label": "Coimbatore"
+            },
+            {
+                "id": "25.18.86",
+                "count": 572,
+                "label": "Ernakulam / Kochi/ Cochin"
+            },
+            {
+                "id": "25.19.97",
+                "count": 500,
+                "label": "Indore"
+            },
+            {
+                "id": "25.26.131",
+                "count": 481,
+                "label": "Mohali"
+            },
+            {
+                "id": "25.27.136",
+                "count": 473,
+                "label": "Jaipur"
+            },
+            {
+                "id": "25.26.23",
+                "count": 455,
+                "label": "Chandigarh"
+            },
+            {
+                "id": "25.18.93",
+                "count": 431,
+                "label": "Trivandrum"
+            },
+            {
+                "id": "25.20.190",
+                "count": 340,
+                "label": "Navi Mumbai"
+            },
+            {
+                "id": "25.12.48",
+                "count": 295,
+                "label": "Surat"
+            },
+            {
+                "id": "25.20.107",
+                "count": 264,
+                "label": "Nagpur"
+            },
+            {
+                "id": "25.12.39",
+                "count": 234,
+                "label": "Vadodara/Baroda"
+            },
+            {
+                "id": "25.31.169",
+                "count": 206,
+                "label": "Lucknow"
+            },
+            {
+                "id": "25.25.120",
+                "count": 181,
+                "label": "Bhubaneshwar"
+            }
+        ],
+        "topCompanyId": [
+            {
+                "id": "27117",
+                "count": 3323,
+                "label": "Accenture"
+            },
+            {
+                "id": "410527",
+                "count": 680,
+                "label": "Infosys Technologies"
+            },
+            {
+                "id": "16987",
+                "count": 559,
+                "label": "IBM India"
+            },
+            {
+                "id": "126573",
+                "count": 155,
+                "label": "UnitedHealth Group"
+            },
+            {
+                "id": "176973",
+                "count": 106,
+                "label": "Globallogic"
+            },
+            {
+                "id": "100007",
+                "count": 86,
+                "label": "Tech Mahindra"
+            },
+            {
+                "id": "7053",
+                "count": 83,
+                "label": "Capgemini"
+            },
+            {
+                "id": "144993",
+                "count": 81,
+                "label": "Mphasis"
+            },
+            {
+                "id": "65758",
+                "count": 61,
+                "label": "Indecomm Technology"
+            },
+            {
+                "id": "27614",
+                "count": 56,
+                "label": "Dell International"
+            },
+            {
+                "id": "2065",
+                "count": 46,
+                "label": "Cybage Software"
+            },
+            {
+                "id": "892542",
+                "count": 43,
+                "label": "TCS"
+            },
+            {
+                "id": "838417",
+                "count": 30,
+                "label": "HCL Technologies"
+            },
+            {
+                "id": "3076036",
+                "count": 29,
+                "label": "Shell"
+            },
+            {
+                "id": "16564",
+                "count": 28,
+                "label": "Hexaware Technologies"
+            },
+            {
+                "id": "571",
+                "count": 23,
+                "label": "Infogain"
+            },
+            {
+                "id": "717",
+                "count": 22,
+                "label": "RANDSTAD INDIA PVT LTD"
+            },
+            {
+                "id": "16512",
+                "count": 20,
+                "label": "Oracle"
+            },
+            {
+                "id": "604",
+                "count": 19,
+                "label": "Iris Software"
+            },
+            {
+                "id": "71554",
+                "count": 19,
+                "label": "Xoriant Solutions"
+            },
+            {
+                "id": "63124",
+                "count": 18,
+                "label": "Mindtree"
+            },
+            {
+                "id": "85926",
+                "count": 18,
+                "label": "Ciena Corporation"
+            },
+            {
+                "id": "18532",
+                "count": 16,
+                "label": "SAP Labs"
+            },
+            {
+                "id": "45244",
+                "count": 15,
+                "label": "CSG International"
+            },
+            {
+                "id": "9335",
+                "count": 14,
+                "label": "ValueLabs"
+            },
+            {
+                "id": "11014",
+                "count": 14,
+                "label": "Intel Technology"
+            },
+            {
+                "id": "530713",
+                "count": 14,
+                "label": "Flipkart"
+            },
+            {
+                "id": "2195080",
+                "count": 14,
+                "label": "Veritas Software Technologies India Pvt. Ltd"
+            },
+            {
+                "id": "2737280",
+                "count": 14,
+                "label": "Tracxn Technologies Pvt Ltd"
+            }
+        ],
+        "wfhType": [
+            {
+                "id": "0",
+                "count": 44269,
+                "label": "Work from office"
+            },
+            {
+                "id": "3",
+                "count": 1855,
+                "label": "Hybrid"
+            },
+            {
+                "id": "2",
+                "count": 1024,
+                "label": "Permanent Remote / WFH"
+            },
+            {
+                "id": "1",
+                "count": 714,
+                "label": "Temp. WFH due to covid"
+            }
+        ],
+        "employement": [
+            {
+                "id": "1",
+                "count": 41109,
+                "label": "Company Jobs"
+            },
+            {
+                "id": "2",
+                "count": 6753,
+                "label": "Consultant Jobs"
+            }
+        ],
+        "featuredCompanies": [
+            {
+                "id": "64499",
+                "count": 2,
+                "label": "ION",
+                "url": "/ion-jobs-careers-64499?keyword=python+developer&src=fcc&companyId=64499"
+            },
+            {
+                "id": "217",
+                "count": 3,
+                "label": "CGI",
+                "url": "/cgi-jobs-careers-217?keyword=python+developer&src=fcc&companyId=217"
+            },
+            {
+                "id": "23508",
+                "count": 1,
+                "label": "Microland",
+                "url": "/job-listings-java-fullstack-developer-microland-bangalore-bengaluru-3-to-8-years-051222005569"
+            },
+            {
+                "id": "314023",
+                "count": 2,
+                "label": "IQVIA",
+                "url": "/iqvia-jobs-careers-314023?keyword=python+developer&src=fcc&companyId=314023"
+            },
+            {
+                "id": "2064404",
+                "count": 1,
+                "label": "NICE",
+                "url": "/job-listings-fullstack-java-application-developer-angular-is-a-must-nice-interactive-solutions-india-pvt-ltd-pune-4-to-8-years-041122005937"
+            },
+            {
+                "id": "15001",
+                "count": 4,
+                "label": "Gavs Technologies",
+                "url": "/gavs-technologies-jobs-careers-15001?keyword=python+developer&src=fcc&companyId=15001"
+            },
+            {
+                "id": "41373",
+                "count": 9,
+                "label": "Prodapt Solutions",
+                "url": "/prodapt-solutions-jobs-careers-538175?keyword=python+developer&src=fcc&companyId=41373"
+            },
+            {
+                "id": "45244",
+                "count": 15,
+                "label": "CSG International",
+                "url": "/csg-international-jobs-careers-45244?keyword=python+developer&src=fcc&companyId=45244"
+            },
+            {
+                "id": "3211",
+                "count": 2,
+                "label": "PTC",
+                "url": "/ptc-jobs-careers-3211?keyword=python+developer&src=fcc&companyId=3211"
+            },
+            {
+                "id": "63124",
+                "count": 18,
+                "label": "Mindtree",
+                "url": "/mindtree-jobs-careers-30528?keyword=python+developer&src=fcc&companyId=63124"
+            },
+            {
+                "id": "7053",
+                "count": 83,
+                "label": "Capgemini",
+                "url": "/capgemini-jobs-careers-649?keyword=python+developer&src=fcc&companyId=7053"
+            },
+            {
+                "id": "144993",
+                "count": 81,
+                "label": "Mphasis",
+                "url": "/mphasis-jobs-careers-6481?keyword=python+developer&src=fcc&companyId=144993"
+            },
+            {
+                "id": "16987",
+                "count": 559,
+                "label": "IBM",
+                "url": "/ibm-jobs-careers-16987?keyword=python+developer&src=fcc&companyId=16987"
+            },
+            {
+                "id": "100007",
+                "count": 86,
+                "label": "Tech Mahindra",
+                "url": "/tech-mahindra-jobs-careers-1066?keyword=python+developer&src=fcc&companyId=100007"
+            },
+            {
+                "id": "30615",
+                "count": 6,
+                "label": "TIBCO",
+                "url": "/tibco-jobs-careers-30615?keyword=python+developer&src=fcc&companyId=30615"
+            },
+            {
+                "id": "121866",
+                "count": 5,
+                "label": "Bosch Global Software Technologies",
+                "url": "/bosch-global-technologies-jobs-careers-121866?keyword=python+developer&src=fcc&companyId=121866"
+            }
+        ],
+        "business_size": [
+            {
+                "id": "213",
+                "count": 10297,
+                "label": "Foreign MNC"
+            },
+            {
+                "id": "211",
+                "count": 3677,
+                "label": "Corporate"
+            },
+            {
+                "id": "217",
+                "count": 2664,
+                "label": "Indian MNC"
+            },
+            {
+                "id": "62",
+                "count": 633,
+                "label": "Startup"
+            },
+            {
+                "id": "215",
+                "count": 29,
+                "label": "Govt/PSU"
+            },
+            {
+                "id": "60",
+                "count": 15,
+                "label": "MNC"
+            },
+            {
+                "id": "63",
+                "count": 6,
+                "label": "Others"
+            },
+            {
+                "id": "219",
+                "count": 5,
+                "label": "Unicorn"
+            }
+        ],
+        "industryType": [
+            {
+                "id": "25",
+                "count": 31298,
+                "label": "IT-Software, Software Services"
+            },
+            {
+                "id": "34",
+                "count": 5009,
+                "label": "Recruitment, Staffing"
+            },
+            {
+                "id": "14",
+                "count": 1478,
+                "label": "Banking, Financial Services, Broking"
+            },
+            {
+                "id": "52",
+                "count": 1427,
+                "label": "Strategy, Management Consulting Firms"
+            },
+            {
+                "id": "63",
+                "count": 736,
+                "label": "Internet, Ecommerce"
+            },
+            {
+                "id": "28",
+                "count": 617,
+                "label": "Semiconductors, Electronics"
+            },
+            {
+                "id": "26",
+                "count": 561,
+                "label": "Education, Teaching, Training"
+            },
+            {
+                "id": "19",
+                "count": 553,
+                "label": "Media, Entertainment, Internet"
+            },
+            {
+                "id": "7",
+                "count": 517,
+                "label": "BPO, Call Centre, ITeS"
+            },
+            {
+                "id": "32",
+                "count": 496,
+                "label": "Advertising, PR, MR, Event Management"
+            },
+            {
+                "id": "27",
+                "count": 485,
+                "label": "Telcom, ISP"
+            },
+            {
+                "id": "15",
+                "count": 386,
+                "label": "IT-Hardware & Networking"
+            },
+            {
+                "id": "12",
+                "count": 335,
+                "label": "Construction, Engineering, Cement, Metals"
+            },
+            {
+                "id": "20",
+                "count": 276,
+                "label": "Medical, Healthcare, Hospitals"
+            },
+            {
+                "id": "48",
+                "count": 271,
+                "label": "KPO, Research, Analytics"
+            },
+            {
+                "id": "4",
+                "count": 250,
+                "label": "Automobile, Auto Anciliary, Auto Components"
+            },
+            {
+                "id": "8",
+                "count": 233,
+                "label": "Accounting, Finance"
+            },
+            {
+                "id": "29",
+                "count": 217,
+                "label": "Other"
+            },
+            {
+                "id": "46",
+                "count": 212,
+                "label": "Aviation, Aerospace, Aeronautical"
+            },
+            {
+                "id": "21",
+                "count": 206,
+                "label": "Office Equipment, Automation"
+            },
+            {
+                "id": "16",
+                "count": 201,
+                "label": "Industrial Products, Heavy Machinery"
+            },
+            {
+                "id": "24",
+                "count": 192,
+                "label": "Retail, Wholesale"
+            },
+            {
+                "id": "22",
+                "count": 188,
+                "label": "Pharma, Biotech, Clinical Research"
+            },
+            {
+                "id": "17",
+                "count": 174,
+                "label": "Insurance"
+            },
+            {
+                "id": "23",
+                "count": 165,
+                "label": "Oil and Gas, Energy, Power, Infrastructure"
+            }
+        ],
+        "functionalArea": [
+            {
+                "id": "41",
+                "count": 29212,
+                "label": "Other"
+            },
+            {
+                "id": "24.01",
+                "count": 13296,
+                "label": "IT Software - Application Programming, Maintenance"
+            },
+            {
+                "id": "24.08",
+                "count": 1388,
+                "label": "IT Software - QA & Testing"
+            },
+            {
+                "id": "81",
+                "count": 1231,
+                "label": "Analytics & Business Intelligence"
+            },
+            {
+                "id": "37",
+                "count": 638,
+                "label": "IT Hardware, Technical Support, Telecom Engineering"
+            },
+            {
+                "id": "24.03",
+                "count": 394,
+                "label": "IT Software - DBA, Datawarehousing"
+            },
+            {
+                "id": "24.04",
+                "count": 269,
+                "label": "IT Software - ERP, CRM"
+            },
+            {
+                "id": "24.06",
+                "count": 236,
+                "label": "IT Software - Network Administration, Security"
+            },
+            {
+                "id": "3",
+                "count": 203,
+                "label": "Design, Creative, User Experience"
+            },
+            {
+                "id": "24.12",
+                "count": 143,
+                "label": "IT Software - eCommerce, Internet Technologies"
+            },
+            {
+                "id": "8",
+                "count": 116,
+                "label": "ITES, BPO, KPO, LPO, Customer Service, Operations"
+            },
+            {
+                "id": "21",
+                "count": 97,
+                "label": "Engineering Design, R&D"
+            },
+            {
+                "id": "16",
+                "count": 82,
+                "label": "Medical, Healthcare, R&D, Pharmaceuticals, Biotechnology"
+            },
+            {
+                "id": "24.05",
+                "count": 72,
+                "label": "IT Software - Embedded, EDA, VLSI, ASIC, Chip Design"
+            },
+            {
+                "id": "12",
+                "count": 57,
+                "label": "HR, Recruitment, Administration, IR"
+            },
+            {
+                "id": "24.14",
+                "count": 57,
+                "label": "IT Software - Mobile"
+            },
+            {
+                "id": "5",
+                "count": 50,
+                "label": "Journalism, Editing, Content"
+            },
+            {
+                "id": "24.09",
+                "count": 46,
+                "label": "IT Software - System Programming"
+            },
+            {
+                "id": "36",
+                "count": 45,
+                "label": "Teaching, Education, Training, Counselling"
+            },
+            {
+                "id": "22",
+                "count": 34,
+                "label": "Sales, Retail, Business Development"
+            },
+            {
+                "id": "6",
+                "count": 33,
+                "label": "Financial Services, Banking, Investments, Insurance"
+            },
+            {
+                "id": "24.07",
+                "count": 33,
+                "label": "IT Software - Other"
+            },
+            {
+                "id": "15",
+                "count": 29,
+                "label": "Marketing, Advertising, MR, PR, Media Planning"
+            },
+            {
+                "id": "1",
+                "count": 21,
+                "label": "Accounts, Finance, Tax, Company Secretary, Audit"
+            },
+            {
+                "id": "19",
+                "count": 19,
+                "label": "Production, Manufacturing, Maintenance"
+            },
+            {
+                "id": "2",
+                "count": 10,
+                "label": "Architecture, Interior Design"
+            },
+            {
+                "id": "9",
+                "count": 10,
+                "label": "Self Employed, Entrepreneur, Independent Consultant"
+            },
+            {
+                "id": "7",
+                "count": 9,
+                "label": "Strategy, Management Consulting, Corporate Planning"
+            },
+            {
+                "id": "24.10",
+                "count": 8,
+                "label": "IT Software - Telecom Software"
+            },
+            {
+                "id": "44",
+                "count": 5,
+                "label": "Travel, Tours, Ticketing, Airlines"
+            },
+            {
+                "id": "24.02",
+                "count": 4,
+                "label": "IT Software - Client/Server Programming"
+            },
+            {
+                "id": "24.11",
+                "count": 3,
+                "label": "IT Software - Systems, EDP, MIS"
+            },
+            {
+                "id": "4",
+                "count": 2,
+                "label": "Hotels, Restaurants"
+            },
+            {
+                "id": "11",
+                "count": 2,
+                "label": "Executive Assistant, Front Office, Data Entry"
+            },
+            {
+                "id": "39",
+                "count": 2,
+                "label": "Top Management"
+            },
+            {
+                "id": "43",
+                "count": 2,
+                "label": "TV, Films, Production, Broadcasting"
+            },
+            {
+                "id": "14",
+                "count": 1,
+                "label": "Supply Chain, Logistics, Purchase, Materials"
+            }
+        ],
+        "glbl_RoleCat": [
+            {
+                "id": "1028",
+                "count": 40028,
+                "label": "Software Development"
+            },
+            {
+                "id": "1027",
+                "count": 1401,
+                "label": "Quality Assurance and Testing"
+            },
+            {
+                "id": "1167",
+                "count": 890,
+                "label": "Other"
+            },
+            {
+                "id": "1019",
+                "count": 707,
+                "label": "Data Science & Machine Learning"
+            },
+            {
+                "id": "1025",
+                "count": 658,
+                "label": "DBA / Data warehousing"
+            },
+            {
+                "id": "1018",
+                "count": 481,
+                "label": "Business Intelligence & Analytics"
+            },
+            {
+                "id": "1022",
+                "count": 419,
+                "label": "IT Network"
+            },
+            {
+                "id": "1042",
+                "count": 360,
+                "label": "IT Infrastructure Services"
+            },
+            {
+                "id": "1026",
+                "count": 345,
+                "label": "DevOps"
+            },
+            {
+                "id": "1044",
+                "count": 304,
+                "label": "IT Support"
+            }
+        ],
+        "jobTags": [
+            {
+                "id": "Skill_39976_39978",
+                "count": 2306,
+                "label": "Java"
+            },
+            {
+                "id": "Skill_39976_39982",
+                "count": 2216,
+                "label": "Python"
+            },
+            {
+                "id": "Skill_39976_39984",
+                "count": 898,
+                "label": "Php"
+            },
+            {
+                "id": "Skill_39976_39990",
+                "count": 1322,
+                "label": "Software Development"
+            },
+            {
+                "id": "Skill_39976_39992",
+                "count": 1858,
+                "label": "Testing"
+            },
+            {
+                "id": "Skill_39976_40004",
+                "count": 1331,
+                "label": "Cloud"
+            },
+            {
+                "id": "Skill_39976_40034",
+                "count": 1187,
+                "label": "Html"
+            },
+            {
+                "id": "Skill_39976_40036",
+                "count": 1219,
+                "label": "Css"
+            },
+            {
+                "id": "Skill_39976_40040",
+                "count": 2292,
+                "label": "Javascript"
+            },
+            {
+                "id": "Skill_39976_40048",
+                "count": 1171,
+                "label": "Aws"
+            }
+        ],
+        "ugCourse": [
+            {
+                "id": "18",
+                "count": 29360,
+                "label": "Any Graduate"
+            },
+            {
+                "id": "11",
+                "count": 18707,
+                "label": "B.Tech/B.E."
+            },
+            {
+                "id": "3",
+                "count": 4628,
+                "label": "BCA"
+            },
+            {
+                "id": "10",
+                "count": 4361,
+                "label": "B.Sc"
+            },
+            {
+                "id": "14",
+                "count": 433,
+                "label": "Diploma"
+            },
+            {
+                "id": "1",
+                "count": 310,
+                "label": "B.A"
+            },
+            {
+                "id": "17",
+                "count": 240,
+                "label": "Graduation Not Required"
+            },
+            {
+                "id": "4",
+                "count": 117,
+                "label": "B.B.A / B.M.S"
+            },
+            {
+                "id": "5",
+                "count": 87,
+                "label": "B.Com"
+            },
+            {
+                "id": "16",
+                "count": 32,
+                "label": "Other Graduate"
+            },
+            {
+                "id": "6",
+                "count": 25,
+                "label": "B.Ed"
+            },
+            {
+                "id": "2",
+                "count": 12,
+                "label": "B.Arch"
+            },
+            {
+                "id": "9",
+                "count": 7,
+                "label": "B.Pharma"
+            }
+        ],
+        "pgCourse": [
+            {
+                "id": "19",
+                "count": 27805,
+                "label": "Any Postgraduate"
+            },
+            {
+                "id": "14",
+                "count": 5575,
+                "label": "MCA"
+            },
+            {
+                "id": "12",
+                "count": 5533,
+                "label": "M.Tech"
+            },
+            {
+                "id": "20",
+                "count": 5093,
+                "label": "Post Graduation Not Required"
+            },
+            {
+                "id": "11",
+                "count": 2238,
+                "label": "MS/M.Sc(Science)"
+            },
+            {
+                "id": "13",
+                "count": 518,
+                "label": "MBA/PGDM"
+            },
+            {
+                "id": "18",
+                "count": 325,
+                "label": "Other"
+            },
+            {
+                "id": "1",
+                "count": 168,
+                "label": "CA"
+            },
+            {
+                "id": "15",
+                "count": 145,
+                "label": "Medical-MS/MD"
+            },
+            {
+                "id": "16",
+                "count": 116,
+                "label": "PG Diploma"
+            },
+            {
+                "id": "6",
+                "count": 102,
+                "label": "M.A"
+            },
+            {
+                "id": "2",
+                "count": 29,
+                "label": "CS"
+            }
+        ]
+    },
+    "jobDetails": [
+        {
+            "title": "Permanent Opportunity For Python Developer/Lead/Pyspark Developer/Lead",
+            "logoPath": "https://img.naukimg.com/logo_images/groups/v1/2978732.gif",
+            "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/2978732.gif",
+            "jobId": "040123011939",
+            "currency": "INR",
+            "footerPlaceholderLabel": "2 Days Ago",
+            "footerPlaceholderColor": "grey",
+            "companyName": "Altimetrik",
+            "isSaved": false,
+            "tagsAndSkills": "python,pyspark,spark",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "6-11 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "15,00,000 - 30,00,000 PA."
+                },
+                {
+                    "type": "location",
+                    "label": "Temp. WFH - Chennai, Pune, Bengaluru, Hyderabad"
+                }
+            ],
+            "companyId": 899040,
+            "jdURL": "/job-listings-permanent-opportunity-for-python-developer-lead-pyspark-developer-lead-altimetrik-hyderabad-secunderabad-pune-chennai-bangalore-bengaluru-6-to-11-years-040123011939",
+            "staticUrl": "altimetrik-jobs-careers-899040",
+            "ambitionBoxData": {
+                "Url": "https://www.ambitionbox.com/reviews/altimetrik-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+                "ReviewsCount": 522,
+                "AggregateRating": "4.0",
+                "Title": "Altimetrik Reviews by Employees"
+            },
+            "jobDescription": "Preferred Location<br><br>Experience: 5 to 14 years<br><br>Total years of experience",
+            "showMultipleApply": false,
+            "groupId": 2978732,
+            "isTopGroup": 0,
+            "createdDate": 1672838436560
+        },
+        {
+            "title": "Python developer",
+            "logoPath": "https://img.naukimg.com/logo_images/groups/v1/152694.gif",
+            "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/152694.gif",
+            "jobId": "050123500598",
+            "currency": "INR",
+            "footerPlaceholderLabel": "1 Day Ago",
+            "footerPlaceholderColor": "green",
+            "companyName": "BNP Paribas",
+            "isSaved": false,
+            "tagsAndSkills": "Performance management,data science,Analytical,Retail banking,Javascript,HTML,test driven development,ITG",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "2-5 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "Not disclosed"
+                },
+                {
+                    "type": "location",
+                    "label": "Chennai"
+                }
+            ],
+            "companyId": 1341910,
+            "jdURL": "/job-listings-python-developer-bnp-paribas-chennai-2-to-5-years-050123500598",
+            "staticUrl": "bnp-paribas-jobs-careers-212044",
+            "ambitionBoxData": {
+                "Url": "https://www.ambitionbox.com/reviews/bnp-paribas-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+                "ReviewsCount": 1683,
+                "AggregateRating": "4.0",
+                "Title": "BNP Paribas Reviews by Employees"
+            },
+            "jobDescription": "<div> <ul> <li> <span> <span> <span> <span> Purpose: Responsible for the Development and Maintenance of OLS application which is a BNP Paribas group Liquidity reporting application.  </span> </span> </span> </span> </li> </ul> <p> </p> <ul> <li> <span> <span> <span> <span> Scope: ISPL based PMLS IT Development team. Responsibility for the IT development and enhancement of PMLS applications </span> </span> </span> </span> </li> </ul> <p> <span> <span> </span> </span> </p> <p> </p> <p> <span> <span> <span> <span> <b> <span> Responsibilities </span> </b> </span> </span> </span> </span> </p> <ul> <li> <span> <span> <span> <span> Develop and enhance Dashboard and web application as assigned by team lead. </span> </span> </span> </span> </li> <li> <span> <span> <span> <span> Contribute and propose changes to application design. </span> </span> </span> </span> </li> <li> <span> <span> Creating products that are user-friendly, effective and appealing </span> </span> </li> <li> <span> <span> Contribute to develop, maintain and improve in house python applications.  </span> </span> </li> <li> <span> <span> Meeting with the project lead to discuss requirements and/or project progress </span> </span> </li> <li> <span> <span> Keeping up to date with recent technological and software developments </span> </span> </li> <li> <span> <span> Developing skills and expertise in appropriate software/programming languages Python, Pyspark, Dash , HTML and Javascript </span> </span> </li> <li> <span> <span> Working as part of a multidisciplinary team </span> </span> </li> </ul> <p> </p> <p> <span> <span> <span> <span> <b> <span> Technical Behavioral Competencies </span> </b> </span> </span> </span> </span> </p> <p> <span> <span> <b> <span> <span> Essential </span> </span> </b> </span> </span> </p> <ul> <li> <span> <span> Experience developing and using RESTFull APIs </span> </span> </li> <li> <span> <span> Expert knowledge of Flask API, FASTAPI </span> </span> </li> <li> <span> <span> Good knowledge of Flask, html and JavaScript. </span> </span> </li> <li> <span> <span> Strong experience in Python Data science library(including Pandas and Numpy) </span> </span> </li> <li> <span> <span> Strong experience using pyspark for distributed computing.  </span> </span> </li> <li> <span> <span> Good knowledge of DASH/Plotly libraries.  </span> </span> </li> <li> <span> <span> Good knowledge of Python including the ability to create and maintain projects and classes </span> </span> </li> <li> <span> <span> Experience with tools like Celery, Nginx, Gunicorn etc. </span> </span> </li> <li> <span> <span> Experience of Full development life cycle  </span> </span> </li> <li> <span> <span> Excellent attention to details </span> </span> </li> <li> <span> <span> Good development skills with proven track record  </span> </span> </li> <li> <span> <span> Very high level of motivation </span> </span> </li> <li> <span> <span> Strong communication skills. </span> </span> </li> <li> <span> <span> A positive and collaborative attitude </span> </span> </li> </ul> <p> </p> <p> </p> <p> <span> <span> <b> <span> <span> Preferred </span> </span> </b> </span> </span> </p> <ul> <li> <span> <span> <span> <span> Interests in finance topics </span> </span> </span> </span> </li> <li> <span> <span> <span> <span> Test driven development (TDD) </span> </span> </span> </span> </li> <li> <span> <span> <span> <span> Knowledge of DevOps </span> </span> </span> </span> </li> </ul> </div>",
+            "showMultipleApply": false,
+            "groupId": 152694,
+            "isTopGroup": 0,
+            "createdDate": 1672918635000
+        },
+        {
+            "title": "Senior Python developer / Python Lead  Role",
+            "logoPath": "https://www.naukri.com/hotjobs/images/v3/appview_july19.gif",
+            "logoPathV3": "https://www.naukri.com/hotjobs/images/v3/appview_july19.gif",
+            "jobId": "040123008976",
+            "currency": "INR",
+            "footerPlaceholderLabel": "2 Days Ago",
+            "footerPlaceholderColor": "grey",
+            "companyName": "Appviewx",
+            "isSaved": false,
+            "tagsAndSkills": "Django,Python scripting,Javascript,Front End Technologies,Flask,Angularjs,JQuery,React.Js",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "5-7 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "70,000 - 1,50,000 PA."
+                },
+                {
+                    "type": "location",
+                    "label": "Chennai, Pune"
+                }
+            ],
+            "companyId": 3688400,
+            "jdURL": "/job-listings-senior-python-developer-python-lead-role-appviewx-pune-chennai-5-to-7-years-040123008976",
+            "staticUrl": "appviewx-jobs-careers-3688400",
+            "ambitionBoxData": {
+                "Url": "https://www.ambitionbox.com/reviews/appviewx-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+                "ReviewsCount": 35,
+                "AggregateRating": "4.0",
+                "Title": "AppViewX Reviews by Employees"
+            },
+            "jobDescription": "<p>Hi ,</p><br /><p>This is Shruthi R from AppviewX Talent Acquisition team . we have great opportunities in Senior Python developer / Python Lead\u00a0 role. Below is the detailed description of the opportunity , </p><p>Interested candidates Share their updated Resume at shruthi.ramakrishnaiah@appviewx.com.</p><p>Current CTC:</p><p>Expected CTC:</p><p>Notice period details: LWD if serving</p><p>Current location:</p><p>Preferred location:</p><p><br /></p><p><br /></p><p>Must have skills:</p><p>Network Automation </p><p>Python scripting / coding or Ansible Scripting / coding - Hands on </p><p>Django/ Flask framework\u00a0</p><p>Front end technologies - Java script, jQuery , Angular Js , React Js ( Any one)\u00a0</p><p>Networking Automation / Networking\u00a0</p><p>Notice period: Immediate to 30 days</p><p>Job Location: Chennai, Pune - Work from office- Hybrid</p><p>Years of Exp: 5+</p><p><br /></p><p>ROLE AND RESPONSIBILITIES</p><br /><p><br /></p><p>\u2022\tWrite and maintain software to solve complex network management and monitoring tasks, including</p><p>o\tDeploying and auditing configuration of network devices.</p><p>o\tMonitoring network health, including metrics collection, visualization, and alerting</p><p>o\tTracking network utilization over time to assist capacity planning models.</p><p>o\tExecuting Changes in bulk across multiple devices.</p><p>\u2022\tWrite proper tests and documentation for all tools.</p><p>\u2022\tCollaborate with other teams to design and implement tools that help automate end-to-end processes that involve the network infrastructure.</p><p>\u2022\tIntegrate existing open-source software tools and participate in those open source projects in order to contribute to any new features or bug fixes.</p><br /><p><br /></p><p>QUALIFICATIONS:</p><p><br /></p><p>MUST-HAVE:</p><p>\u2022\t4+ years of software engineering experience</p><p>\u2022\tHands-on experience and good knowledge on Python Programming\u00a0</p><p>\u2022\tThe Candidate should be good in any one of the frameworks - Django/ Flask and should have hands-on experience in one of the python frameworks</p><p>\u2022\tThe candidate must have knowledge from any one of the front-end like AngularJs / React JS / Jquery/ JavaScript.</p><p>\u2022\tStrong communication skills</p><p>\u2022\tA desire to continue learning</p><p>\u2022\tA personal commitment to quality</p><p><br /></p><p>GOOD To HAVE\u00a0</p><p><br /></p><p>\u2022\tAnsible Knowledge is good to have but not Mandatory</p><p>\u2022\t Networking knowledge is good to have but not Mandatory.</p><p><br /></p><br /><p><br /></p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><p> </p><br /><br /><br /><br />",
+            "showMultipleApply": false,
+            "groupId": 4580411,
+            "isTopGroup": 0,
+            "createdDate": 1672826860639
+        },
+        {
+            "title": "Python Developer",
+            "jobId": "050123501437",
+            "currency": "INR",
+            "footerPlaceholderLabel": "1 Day Ago",
+            "footerPlaceholderColor": "green",
+            "companyName": "CDA It Solutions",
+            "isSaved": false,
+            "tagsAndSkills": "Ajax,jQuery,JavaScript,SQL queries,communication,HTML,Django MVT,CSS",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "5-9 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "Not disclosed"
+                },
+                {
+                    "type": "location",
+                    "label": "Chennai, Bengaluru, Hyderabad"
+                }
+            ],
+            "companyId": 123624525,
+            "jdURL": "/job-listings-python-developer-cda-it-solutions-hyderabad-secunderabad-chennai-bangalore-bengaluru-5-to-9-years-050123501437",
+            "staticUrl": "cda-it-solutions-jobs-careers-123624525",
+            "jobDescription": "Should be having good communication skills and able to code in Python<br><br>Should be able to write re-usable quality code which increases performance and easy to read code<br><br>Should have extensive knowledge on Django MVT Framework and ORM queries<br><br>Should have knowledge on MySQL Database,SQL queries,JavaScript / jQuery/Ajax calls.,HTML,CSS",
+            "showMultipleApply": false,
+            "groupId": 7748911,
+            "isTopGroup": 0,
+            "createdDate": 1672926901000
+        },
+        {
+            "title": "Python developer (Hybrid Model)",
+            "jobId": "050123011633",
+            "currency": "INR",
+            "footerPlaceholderLabel": "1 Day Ago",
+            "footerPlaceholderColor": "green",
+            "companyName": "Servsearch Applications",
+            "isSaved": false,
+            "tagsAndSkills": "python,pytest,django,Numpy,pandas",
+            "placeholders": [
+                {
+                    "type": "experience",
+                    "label": "3-8 Yrs"
+                },
+                {
+                    "type": "salary",
+                    "label": "5,00,000 - 12,00,000 PA."
+                },
+                {
+                    "type": "location",
+                    "label": "Hybrid - Chennai, Bengaluru"
+                }
+            ],
+            "companyId": 6794697,
+            "jdURL": "/job-listings-python-developer-hybrid-model-servsearch-applications-chennai-bangalore-bengaluru-3-to-8-years-050123011633",
+            "staticUrl": "servsearch-applications-jobs-careers-6794697",
+            "jobDescription": "<p>We are hiring for python developer</p><br /><br /><p>Required skill set :Numpy,pandas,django</p><p>good to have pytest</p><br /><p>Locatin:bengaluru/chennai(3 days per week Office  and 2 days WFH/Remote)</p><p>Notice-15 days -30 days</p><br /><p>Payroll:Koinworx</p><p>CLient:MNC</p>",
+            "showMultipleApply": false,
+            "groupId": 6222807,
+            "isTopGroup": 0,
+            "createdDate": 1672926177450
+        }
+    ],
+    "fatFooter": [
+        {
+            "tab": "Bangalore",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Python Jobs In Bangalore",
+                    "url": "https://www.naukri.com/python-jobs-in-bangalore"
+                },
+                {
+                    "text": "Python Programmer Jobs In Bangalore",
+                    "url": "https://www.naukri.com/python-programmer-jobs-in-bangalore"
+                },
+                {
+                    "text": "Python Development Jobs In Bangalore",
+                    "url": "https://www.naukri.com/python-development-jobs-in-bangalore"
+                },
+                {
+                    "text": "Django Jobs In Bangalore",
+                    "url": "https://www.naukri.com/django-jobs-in-bangalore"
+                },
+                {
+                    "text": "Python Scripting Jobs In Bangalore",
+                    "url": "https://www.naukri.com/python-scripting-jobs-in-bangalore"
+                },
+                {
+                    "text": "Perl Developer Jobs In Bangalore",
+                    "url": "https://www.naukri.com/perl-developer-jobs-in-bangalore"
+                },
+                {
+                    "text": "Zope Jobs In Bangalore",
+                    "url": "https://www.naukri.com/zope-jobs-in-bangalore"
+                },
+                {
+                    "text": "Php Developer Jobs In Bangalore",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-bangalore"
+                },
+                {
+                    "text": "Perl Jobs In Bangalore",
+                    "url": "https://www.naukri.com/perl-jobs-in-bangalore"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Bangalore",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-bangalore"
+                }
+            ]
+        },
+        {
+            "tab": "Delhi NCR",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Python Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/python-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Python Programmer Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/python-programmer-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Python Development Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/python-development-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Django Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/django-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Python Scripting Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/python-scripting-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Perl Developer Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/perl-developer-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Zope Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/zope-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Php Developer Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "Perl Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/perl-jobs-in-delhi-ncr"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Delhi NCR",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-delhi-ncr"
+                }
+            ]
+        },
+        {
+            "tab": "Hyderabad Secunderabad",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Python Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/python-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Python Programmer Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/python-programmer-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Python Development Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/python-development-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Django Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/django-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Python Scripting Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/python-scripting-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Perl Developer Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/perl-developer-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Zope Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/zope-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Php Developer Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "Perl Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/perl-jobs-in-hyderabad-secunderabad"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Hyderabad Secunderabad",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-hyderabad-secunderabad"
+                }
+            ]
+        },
+        {
+            "tab": "Mumbai",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Python Jobs In Mumbai",
+                    "url": "https://www.naukri.com/python-jobs-in-mumbai"
+                },
+                {
+                    "text": "Python Programmer Jobs In Mumbai",
+                    "url": "https://www.naukri.com/python-programmer-jobs-in-mumbai"
+                },
+                {
+                    "text": "Python Development Jobs In Mumbai",
+                    "url": "https://www.naukri.com/python-development-jobs-in-mumbai"
+                },
+                {
+                    "text": "Django Jobs In Mumbai",
+                    "url": "https://www.naukri.com/django-jobs-in-mumbai"
+                },
+                {
+                    "text": "Python Scripting Jobs In Mumbai",
+                    "url": "https://www.naukri.com/python-scripting-jobs-in-mumbai"
+                },
+                {
+                    "text": "Perl Developer Jobs In Mumbai",
+                    "url": "https://www.naukri.com/perl-developer-jobs-in-mumbai"
+                },
+                {
+                    "text": "Zope Jobs In Mumbai",
+                    "url": "https://www.naukri.com/zope-jobs-in-mumbai"
+                },
+                {
+                    "text": "Php Developer Jobs In Mumbai",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-mumbai"
+                },
+                {
+                    "text": "Perl Jobs In Mumbai",
+                    "url": "https://www.naukri.com/perl-jobs-in-mumbai"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Mumbai",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-mumbai"
+                }
+            ]
+        },
+        {
+            "tab": "Chennai",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Python Jobs In Chennai",
+                    "url": "https://www.naukri.com/python-jobs-in-chennai"
+                },
+                {
+                    "text": "Python Programmer Jobs In Chennai",
+                    "url": "https://www.naukri.com/python-programmer-jobs-in-chennai"
+                },
+                {
+                    "text": "Python Development Jobs In Chennai",
+                    "url": "https://www.naukri.com/python-development-jobs-in-chennai"
+                },
+                {
+                    "text": "Django Jobs In Chennai",
+                    "url": "https://www.naukri.com/django-jobs-in-chennai"
+                },
+                {
+                    "text": "Python Scripting Jobs In Chennai",
+                    "url": "https://www.naukri.com/python-scripting-jobs-in-chennai"
+                },
+                {
+                    "text": "Perl Developer Jobs In Chennai",
+                    "url": "https://www.naukri.com/perl-developer-jobs-in-chennai"
+                },
+                {
+                    "text": "Zope Jobs In Chennai",
+                    "url": "https://www.naukri.com/zope-jobs-in-chennai"
+                },
+                {
+                    "text": "Php Developer Jobs In Chennai",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-chennai"
+                },
+                {
+                    "text": "Perl Jobs In Chennai",
+                    "url": "https://www.naukri.com/perl-jobs-in-chennai"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Chennai",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-chennai"
+                }
+            ]
+        },
+        {
+            "tab": "Pune",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Python Jobs In Pune",
+                    "url": "https://www.naukri.com/python-jobs-in-pune"
+                },
+                {
+                    "text": "Python Programmer Jobs In Pune",
+                    "url": "https://www.naukri.com/python-programmer-jobs-in-pune"
+                },
+                {
+                    "text": "Python Development Jobs In Pune",
+                    "url": "https://www.naukri.com/python-development-jobs-in-pune"
+                },
+                {
+                    "text": "Django Jobs In Pune",
+                    "url": "https://www.naukri.com/django-jobs-in-pune"
+                },
+                {
+                    "text": "Python Scripting Jobs In Pune",
+                    "url": "https://www.naukri.com/python-scripting-jobs-in-pune"
+                },
+                {
+                    "text": "Perl Developer Jobs In Pune",
+                    "url": "https://www.naukri.com/perl-developer-jobs-in-pune"
+                },
+                {
+                    "text": "Zope Jobs In Pune",
+                    "url": "https://www.naukri.com/zope-jobs-in-pune"
+                },
+                {
+                    "text": "Php Developer Jobs In Pune",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-pune"
+                },
+                {
+                    "text": "Perl Jobs In Pune",
+                    "url": "https://www.naukri.com/perl-jobs-in-pune"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Pune",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-pune"
+                }
+            ]
+        },
+        {
+            "tab": "Kolkata",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Python Jobs In Kolkata",
+                    "url": "https://www.naukri.com/python-jobs-in-kolkata"
+                },
+                {
+                    "text": "Python Programmer Jobs In Kolkata",
+                    "url": "https://www.naukri.com/python-programmer-jobs-in-kolkata"
+                },
+                {
+                    "text": "Python Development Jobs In Kolkata",
+                    "url": "https://www.naukri.com/python-development-jobs-in-kolkata"
+                },
+                {
+                    "text": "Django Jobs In Kolkata",
+                    "url": "https://www.naukri.com/django-jobs-in-kolkata"
+                },
+                {
+                    "text": "Python Scripting Jobs In Kolkata",
+                    "url": "https://www.naukri.com/python-scripting-jobs-in-kolkata"
+                },
+                {
+                    "text": "Perl Developer Jobs In Kolkata",
+                    "url": "https://www.naukri.com/perl-developer-jobs-in-kolkata"
+                },
+                {
+                    "text": "Zope Jobs In Kolkata",
+                    "url": "https://www.naukri.com/zope-jobs-in-kolkata"
+                },
+                {
+                    "text": "Php Developer Jobs In Kolkata",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-kolkata"
+                },
+                {
+                    "text": "Perl Jobs In Kolkata",
+                    "url": "https://www.naukri.com/perl-jobs-in-kolkata"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Kolkata",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-kolkata"
+                }
+            ]
+        },
+        {
+            "tab": "Ahmedabad",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Python Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/python-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Python Programmer Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/python-programmer-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Python Development Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/python-development-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Django Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/django-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Python Scripting Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/python-scripting-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Perl Developer Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/perl-developer-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Zope Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/zope-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Php Developer Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "Perl Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/perl-jobs-in-ahmedabad"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Ahmedabad",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-ahmedabad"
+                }
+            ]
+        },
+        {
+            "tab": "Gurgaon",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Python Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/python-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Python Programmer Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/python-programmer-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Python Development Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/python-development-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Django Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/django-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Python Scripting Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/python-scripting-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Perl Developer Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/perl-developer-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Zope Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/zope-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Php Developer Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-gurgaon"
+                },
+                {
+                    "text": "Perl Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/perl-jobs-in-gurgaon"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Gurgaon",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-gurgaon"
+                }
+            ]
+        },
+        {
+            "tab": "Noida",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Python Jobs In Noida",
+                    "url": "https://www.naukri.com/python-jobs-in-noida"
+                },
+                {
+                    "text": "Python Programmer Jobs In Noida",
+                    "url": "https://www.naukri.com/python-programmer-jobs-in-noida"
+                },
+                {
+                    "text": "Python Development Jobs In Noida",
+                    "url": "https://www.naukri.com/python-development-jobs-in-noida"
+                },
+                {
+                    "text": "Django Jobs In Noida",
+                    "url": "https://www.naukri.com/django-jobs-in-noida"
+                },
+                {
+                    "text": "Python Scripting Jobs In Noida",
+                    "url": "https://www.naukri.com/python-scripting-jobs-in-noida"
+                },
+                {
+                    "text": "Perl Developer Jobs In Noida",
+                    "url": "https://www.naukri.com/perl-developer-jobs-in-noida"
+                },
+                {
+                    "text": "Zope Jobs In Noida",
+                    "url": "https://www.naukri.com/zope-jobs-in-noida"
+                },
+                {
+                    "text": "Php Developer Jobs In Noida",
+                    "url": "https://www.naukri.com/php-developer-jobs-in-noida"
+                },
+                {
+                    "text": "Perl Jobs In Noida",
+                    "url": "https://www.naukri.com/perl-jobs-in-noida"
+                },
+                {
+                    "text": "C Plus Plus Jobs In Noida",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs-in-noida"
+                }
+            ]
+        },
+        {
+            "tab": "All Jobs",
+            "highlight": false,
+            "urlSet": [
+                {
+                    "text": "Python Jobs",
+                    "url": "https://www.naukri.com/python-jobs"
+                },
+                {
+                    "text": "Python Programmer Jobs",
+                    "url": "https://www.naukri.com/python-programmer-jobs"
+                },
+                {
+                    "text": "Python Development Jobs",
+                    "url": "https://www.naukri.com/python-development-jobs"
+                },
+                {
+                    "text": "Django Jobs",
+                    "url": "https://www.naukri.com/django-jobs"
+                },
+                {
+                    "text": "Python Scripting Jobs",
+                    "url": "https://www.naukri.com/python-scripting-jobs"
+                },
+                {
+                    "text": "Perl Developer Jobs",
+                    "url": "https://www.naukri.com/perl-developer-jobs"
+                },
+                {
+                    "text": "Zope Jobs",
+                    "url": "https://www.naukri.com/zope-jobs"
+                },
+                {
+                    "text": "Php Developer Jobs",
+                    "url": "https://www.naukri.com/php-developer-jobs"
+                },
+                {
+                    "text": "Perl Jobs",
+                    "url": "https://www.naukri.com/perl-jobs"
+                },
+                {
+                    "text": "C Plus Plus Jobs",
+                    "url": "https://www.naukri.com/c-plus-plus-jobs"
+                }
+            ]
+        }
+    ],
+    "suggesterModel": {
+        "qparams": {
+            "pFarea": 18
+        }
+    },
+    "seo": {
+        "title": "Python Developer Jobs, 47862 Python Developer Job Vacancies In January 2023 - Naukri.com",
+        "descp": "Apply To 47862 Python Developer Jobs On Naukri.com, #1 Job Portal In India. Explore Python Developer Job Openings In Your Desired Locations Now!"
+    },
+    "bellyFilters": {
+        "positions": [
+            7,
+            10,
+            16
+        ],
+        "order": [
+            "salaryRange",
+            "cities",
+            "topCompanyId"
+        ]
+    },
+    "sid": "16730123863477414",
+    "isLoggedIn": false,
+    "variantName": "default",
+    "clusterOrder": [
+        "wfhType",
+        "experience",
+        "functionalArea",
+        "cities",
+        "salaryRange",
+        "business_size",
+        "role",
+        "glbl_RoleCat",
+        "ugCourse",
+        "employement",
+        "industryType",
+        "topCompanyId",
+        "freshness"
+    ]
+}
